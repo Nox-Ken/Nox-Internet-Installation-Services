@@ -1,0 +1,7228 @@
+{
+  "format": "NOX-REPOSITORY-DATA",
+  "formatVersion": 1,
+  "updatedAt": "2026-10-23T14:31:34.446Z",
+  "workspace": {
+    "seed": {
+      "business": {
+        "name": "NOX Internet Installation Services",
+        "location": "Loreto, Agusan del Sur",
+        "source": "NOX INTERNET INSTALLATION SERVICES.xlsx",
+        "defaultMonth": "2026-08",
+        "initialCash": 250000,
+        "importedOn": "2026-10-23"
+      },
+      "months": [
+        {
+          "month": "2026-05",
+          "vendo": 70308.45,
+          "subscriber": 0,
+          "expenses": 154834,
+          "opening": 250000,
+          "closing": 165474.45,
+          "harvestCount": 33,
+          "categories": {
+            "Internet/ISP": 45661,
+            "Components/Piyesa": 59043,
+            "Gas": 0,
+            "Manpower": 38100,
+            "Car Loan / Mini-Van": 0,
+            "Tower Rental Payment": 0,
+            "Misc / Other": 12030
+          }
+        },
+        {
+          "month": "2026-06",
+          "vendo": 107399.9,
+          "subscriber": 5450,
+          "expenses": 170631,
+          "opening": 165474.45,
+          "closing": 107693.35,
+          "harvestCount": 69,
+          "categories": {
+            "Internet/ISP": 19224,
+            "Components/Piyesa": 81748,
+            "Gas": 0,
+            "Manpower": 42250,
+            "Car Loan / Mini-Van": 0,
+            "Tower Rental Payment": 4750,
+            "Misc / Other": 22659
+          }
+        },
+        {
+          "month": "2026-07",
+          "vendo": 100328.1,
+          "subscriber": 5550,
+          "expenses": 126220.5,
+          "opening": 107693.35,
+          "closing": 87350.95,
+          "harvestCount": 79,
+          "categories": {
+            "Internet/ISP": 23201,
+            "Components/Piyesa": 49685,
+            "Gas": 0,
+            "Manpower": 32756.5,
+            "Car Loan / Mini-Van": 11078,
+            "Tower Rental Payment": 5200,
+            "Misc / Other": 4300
+          }
+        },
+        {
+          "month": "2026-08",
+          "vendo": 35521.5,
+          "subscriber": 5450,
+          "expenses": 104734,
+          "opening": 87350.95,
+          "closing": 23588.45,
+          "harvestCount": 19,
+          "categories": {
+            "Internet/ISP": 23201,
+            "Components/Piyesa": 31027,
+            "Gas": 0,
+            "Manpower": 30996,
+            "Car Loan / Mini-Van": 11078,
+            "Tower Rental Payment": 0,
+            "Misc / Other": 8432
+          }
+        },
+        {
+          "month": "2026-09",
+          "vendo": 0,
+          "subscriber": 0,
+          "expenses": 63665,
+          "opening": 23588.45,
+          "closing": -40076.55,
+          "harvestCount": 0,
+          "categories": {
+            "Internet/ISP": 23201,
+            "Components/Piyesa": 20094,
+            "Gas": 0,
+            "Manpower": 20370,
+            "Car Loan / Mini-Van": 0,
+            "Tower Rental Payment": 0,
+            "Misc / Other": 0
+          }
+        },
+        {
+          "month": "2026-10",
+          "vendo": 0,
+          "subscriber": 850,
+          "expenses": 400,
+          "opening": -40076.55,
+          "closing": -39626.55,
+          "harvestCount": 0,
+          "categories": {
+            "Internet/ISP": 0,
+            "Components/Piyesa": 0,
+            "Gas": 0,
+            "Manpower": 400,
+            "Car Loan / Mini-Van": 0,
+            "Tower Rental Payment": 0,
+            "Misc / Other": 0
+          }
+        }
+      ],
+      "harvest": [
+        {
+          "id": "harvest-3",
+          "date": "2026-06-09",
+          "month": "2026-05",
+          "area": "LANGGASIAN",
+          "name": "JAYLA PISO WIFI",
+          "gross": 5153,
+          "internet": 1500,
+          "electricity": 400,
+          "net": 3253,
+          "consignee": 1050.6,
+          "owner": 3939.75,
+          "agent": 162.65,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-4",
+          "date": "2026-06-09",
+          "month": "2026-05",
+          "area": "LANGGASIAN",
+          "name": "KAP HAVANA PISO WIFI",
+          "gross": 2667,
+          "internet": 750,
+          "electricity": 200,
+          "net": 1717,
+          "consignee": 543.4000000000001,
+          "owner": 2037.75,
+          "agent": 85.85000000000001,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-5",
+          "date": "2026-06-09",
+          "month": "2026-05",
+          "area": "LANGGASIAN",
+          "name": "DIONICIO PISO WIFI",
+          "gross": 2300,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 1100,
+          "consignee": 420,
+          "owner": 1825,
+          "agent": 55,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-6",
+          "date": "2026-06-09",
+          "month": "2026-05",
+          "area": "LANGGASIAN",
+          "name": "MAY-MAY PISO WIFI",
+          "gross": 5245,
+          "internet": 1500,
+          "electricity": 300,
+          "net": 3445,
+          "consignee": 989,
+          "owner": 4083.75,
+          "agent": 172.25,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-7",
+          "date": "2026-06-09",
+          "month": "2026-05",
+          "area": "LANGGASIAN",
+          "name": "ALEXANDER PISO WIFI",
+          "gross": 2800,
+          "internet": 750,
+          "electricity": 200,
+          "net": 1850,
+          "consignee": 570,
+          "owner": 2137.5,
+          "agent": 92.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-8",
+          "date": "2026-06-09",
+          "month": "2026-05",
+          "area": "LANGGASIAN",
+          "name": "JOHN PAUL PISO WIFI",
+          "gross": 2727,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 1527,
+          "consignee": 505.40000000000003,
+          "owner": 2145.25,
+          "agent": 76.35000000000001,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-9",
+          "date": "2026-06-09",
+          "month": "2026-05",
+          "area": "LANGGASIAN",
+          "name": "PEREZ PISO WIFI",
+          "gross": 5600,
+          "internet": 2000,
+          "electricity": 300,
+          "net": 3300,
+          "consignee": 960,
+          "owner": 4475,
+          "agent": 165,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-10",
+          "date": "2026-06-09",
+          "month": "2026-05",
+          "area": "VALENTINA",
+          "name": "TORRES PISO WIFI",
+          "gross": 2518,
+          "internet": 1000,
+          "electricity": 300,
+          "net": 1218,
+          "consignee": 665.4,
+          "owner": 1799.3734,
+          "agent": 53.226600000000005,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-11",
+          "date": "2026-06-09",
+          "month": "2026-05",
+          "area": "MANAWE",
+          "name": "VIVIAN PISO WIFI",
+          "gross": 5975,
+          "internet": 2500,
+          "electricity": 400,
+          "net": 3075,
+          "consignee": 1015,
+          "owner": 4806.25,
+          "agent": 153.75,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-12",
+          "date": "2026-06-09",
+          "month": "2026-05",
+          "area": "SAN VICENTE",
+          "name": "BALLESTEROS PISO WIFI",
+          "gross": 1600,
+          "internet": 500,
+          "electricity": 200,
+          "net": 900,
+          "consignee": 380,
+          "owner": 1175,
+          "agent": 45,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-13",
+          "date": "2026-06-10",
+          "month": "2026-05",
+          "area": "SAN VICENTE",
+          "name": "ESCRIN PISO WIFI",
+          "gross": 2100,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 900,
+          "consignee": 380,
+          "owner": 1675,
+          "agent": 45,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-14",
+          "date": "2026-06-10",
+          "month": "2026-05",
+          "area": "SAN VICENTE",
+          "name": "LEMOS PISO WIFI",
+          "gross": 2180,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 980,
+          "consignee": 396,
+          "owner": 1735,
+          "agent": 49,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-15",
+          "date": "2026-06-11",
+          "month": "2026-05",
+          "area": "SAN VICENTE",
+          "name": "MATEO PISO WIFI",
+          "gross": 2058,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 858,
+          "consignee": 371.6,
+          "owner": 1643.5,
+          "agent": 42.900000000000006,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-16",
+          "date": "2026-06-10",
+          "month": "2026-05",
+          "area": "SAN VICENTE",
+          "name": "DAYO PISO WIFI",
+          "gross": 2183,
+          "internet": 1000,
+          "electricity": 400,
+          "net": 783,
+          "consignee": 634.9,
+          "owner": 1513.8829,
+          "agent": 34.2171,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-17",
+          "date": "2026-06-09",
+          "month": "2026-05",
+          "area": "KIAWAN",
+          "name": "BENGIE PISO WIFI",
+          "gross": 3100,
+          "internet": 1500,
+          "electricity": 200,
+          "net": 1400,
+          "consignee": 480,
+          "owner": 2550,
+          "agent": 70,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-18",
+          "date": "2026-06-09",
+          "month": "2026-05",
+          "area": "KIAWAN",
+          "name": "RICKY PISO WIFI",
+          "gross": 2000,
+          "internet": 800,
+          "electricity": 200,
+          "net": 1000,
+          "consignee": 400,
+          "owner": 1550,
+          "agent": 50,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-19",
+          "date": "2026-06-10",
+          "month": "2026-05",
+          "area": "STA. TERESA",
+          "name": "OTAZA PISO WIFI",
+          "gross": 1500,
+          "internet": 800,
+          "electricity": 200,
+          "net": 500,
+          "consignee": 300,
+          "owner": 1175,
+          "agent": 25,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-20",
+          "date": "2026-06-10",
+          "month": "2026-05",
+          "area": "STA. TERESA",
+          "name": "SOLORIN PISO WIFI",
+          "gross": 1810,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 610,
+          "consignee": 322,
+          "owner": 1457.5,
+          "agent": 30.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-21",
+          "date": "2026-06-10",
+          "month": "2026-05",
+          "area": "STA. TERESA",
+          "name": "BANTUASAN PISO WIFI",
+          "gross": 1513,
+          "internet": 800,
+          "electricity": 200,
+          "net": 513,
+          "consignee": 302.6,
+          "owner": 1184.75,
+          "agent": 25.650000000000002,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-22",
+          "date": "2026-06-10",
+          "month": "2026-05",
+          "area": "STA. TERESA",
+          "name": "DIQUE PISO WIFI",
+          "gross": 2285,
+          "internet": 1500,
+          "electricity": 200,
+          "net": 585,
+          "consignee": 317,
+          "owner": 1938.75,
+          "agent": 29.25,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-23",
+          "date": "2026-06-10",
+          "month": "2026-05",
+          "area": "SAN MARIANO",
+          "name": "SUPETRAN PISO WIFI",
+          "gross": 2080,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 880,
+          "consignee": 376,
+          "owner": 1660,
+          "agent": 44,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-24",
+          "date": "2026-06-10",
+          "month": "2026-05",
+          "area": "SAN MARIANO",
+          "name": "JAYJEAN PISO WIFI",
+          "gross": 3400,
+          "internet": 2000,
+          "electricity": 200,
+          "net": 1200,
+          "consignee": 440,
+          "owner": 2900,
+          "agent": 60,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-25",
+          "date": "2026-06-10",
+          "month": "2026-05",
+          "area": "SAN MARIANO",
+          "name": "DAGUYLAAN PISO WIFI",
+          "gross": 2000,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 800,
+          "consignee": 360,
+          "owner": 1600,
+          "agent": 40,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-26",
+          "date": "2026-06-10",
+          "month": "2026-05",
+          "area": "SAN MARIANO",
+          "name": "DAGUYLAAN PISO WIFI",
+          "gross": 1660,
+          "internet": 800,
+          "electricity": 200,
+          "net": 660,
+          "consignee": 332,
+          "owner": 1295,
+          "agent": 33,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-27",
+          "date": "2026-06-10",
+          "month": "2026-05",
+          "area": "SAN MARIANO",
+          "name": "APALE PISO WIFI",
+          "gross": 2770,
+          "internet": 1500,
+          "electricity": 200,
+          "net": 1070,
+          "consignee": 414,
+          "owner": 2302.5,
+          "agent": 53.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-28",
+          "date": "2026-06-10",
+          "month": "2026-05",
+          "area": "SAN MARIANO",
+          "name": "THORMIS PISO WIFI",
+          "gross": 1760,
+          "internet": 900,
+          "electricity": 200,
+          "net": 660,
+          "consignee": 332,
+          "owner": 1395,
+          "agent": 33,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-29",
+          "date": "2026-06-10",
+          "month": "2026-05",
+          "area": "SAN MARIANO",
+          "name": "BANTUASAN PISO WIFI",
+          "gross": 2772,
+          "internet": 1500,
+          "electricity": 400,
+          "net": 872,
+          "consignee": 574.4,
+          "owner": 2154,
+          "agent": 43.6,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-30",
+          "date": "2026-06-10",
+          "month": "2026-05",
+          "area": "SAN MARIANO",
+          "name": "KJ nag harvest",
+          "gross": 1390,
+          "internet": 500,
+          "electricity": 200,
+          "net": 690,
+          "consignee": 338,
+          "owner": 1017.5,
+          "agent": 34.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-31",
+          "date": "2026-06-12",
+          "month": "2026-05",
+          "area": "SAN MARIANO",
+          "name": "INTES PISO WIFI",
+          "gross": 2570,
+          "internet": 1000,
+          "electricity": 925,
+          "net": 645,
+          "consignee": 1086.25,
+          "owner": 1453.4995,
+          "agent": 30.2505,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-32",
+          "date": "2026-06-11",
+          "month": "2026-05",
+          "area": "KAUSWAGAN",
+          "name": "CASTRO PISO WIFI",
+          "gross": 2100,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 900,
+          "consignee": 380,
+          "owner": 1675,
+          "agent": 45,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-33",
+          "date": "2026-06-11",
+          "month": "2026-05",
+          "area": "KAUSWAGAN",
+          "name": "VILLAROSA PISO WIFI",
+          "gross": 2630,
+          "internet": 1500,
+          "electricity": 200,
+          "net": 930,
+          "consignee": 386,
+          "owner": 2197.5,
+          "agent": 46.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-34",
+          "date": "2026-06-11",
+          "month": "2026-05",
+          "area": "KAUSWAGAN",
+          "name": "CABLEROS PISO WIFI",
+          "gross": 1860,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 660,
+          "consignee": 332,
+          "owner": 1495,
+          "agent": 33,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-35",
+          "date": "2026-06-11",
+          "month": "2026-05",
+          "area": "KAUSWAGAN",
+          "name": "ESCOTOTO PISO WIFI",
+          "gross": 2770,
+          "internet": 1500,
+          "electricity": 200,
+          "net": 1070,
+          "consignee": 414,
+          "owner": 2302.5,
+          "agent": 53.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-36",
+          "date": null,
+          "month": "2026-06",
+          "area": "LANGGASIAN",
+          "name": "JAYLA PISO WIFI",
+          "gross": 3843,
+          "internet": 1500,
+          "electricity": 266,
+          "net": 2077,
+          "consignee": 681.4000000000001,
+          "owner": 3057.75,
+          "agent": 103.85000000000001,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-37",
+          "date": null,
+          "month": "2026-06",
+          "area": "LANGGASIAN",
+          "name": "KAP HAVANA PISO WIFI",
+          "gross": 2660,
+          "internet": 1500,
+          "electricity": 200,
+          "net": 960,
+          "consignee": 392,
+          "owner": 2220,
+          "agent": 48,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-38",
+          "date": null,
+          "month": "2026-06",
+          "area": "LANGGASIAN",
+          "name": "DIONICIO PISO WIFI",
+          "gross": 1760,
+          "internet": 1000,
+          "electricity": 150,
+          "net": 610,
+          "consignee": 272,
+          "owner": 1457.5,
+          "agent": 30.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-39",
+          "date": null,
+          "month": "2026-06",
+          "area": "LANGGASIAN",
+          "name": "MAY-MAY PISO WIFI",
+          "gross": 1960,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 760,
+          "consignee": 352,
+          "owner": 1570,
+          "agent": 38,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-40",
+          "date": null,
+          "month": "2026-06",
+          "area": "LANGGASIAN",
+          "name": "PEREZ PISO WIFI",
+          "gross": 675,
+          "internet": 400,
+          "electricity": 100,
+          "net": 175,
+          "consignee": 135,
+          "owner": 531.25,
+          "agent": 8.75,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-41",
+          "date": null,
+          "month": "2026-06",
+          "area": "MANAWE",
+          "name": "CASAL/ VIVIAN PISO WIFI",
+          "gross": 2940,
+          "internet": 0,
+          "electricity": 300,
+          "net": 2640,
+          "consignee": 1092,
+          "owner": 1732.632,
+          "agent": 115.36800000000001,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-42",
+          "date": null,
+          "month": "2026-06",
+          "area": "MANAWE",
+          "name": "ELJEAN PISO WIFI",
+          "gross": 1420,
+          "internet": 800,
+          "electricity": 200,
+          "net": 420,
+          "consignee": 284,
+          "owner": 1115,
+          "agent": 21,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-43",
+          "date": null,
+          "month": "2026-06",
+          "area": "SAN VICENTE",
+          "name": "BALLESTEROS PISO WIFI",
+          "gross": 1854,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 654,
+          "consignee": 330.8,
+          "owner": 1490.5,
+          "agent": 32.7,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-44",
+          "date": null,
+          "month": "2026-06",
+          "area": "SAN VICENTE",
+          "name": "BARRACKS PISO WIFI",
+          "gross": 4557,
+          "internet": 1500,
+          "electricity": 200,
+          "net": 2857,
+          "consignee": 771.4,
+          "owner": 3642.75,
+          "agent": 142.85,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-45",
+          "date": null,
+          "month": "2026-06",
+          "area": "SAN VICENTE",
+          "name": "ESCRIN PISO WIFI",
+          "gross": 2090,
+          "internet": 1045,
+          "electricity": 400,
+          "net": 645,
+          "consignee": 529,
+          "owner": 1528.75,
+          "agent": 32.25,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-46",
+          "date": null,
+          "month": "2026-06",
+          "area": "SAN VICENTE",
+          "name": "LEMOS PISO WIFI",
+          "gross": 852,
+          "internet": 500,
+          "electricity": 200,
+          "net": 152,
+          "consignee": 230.4,
+          "owner": 614,
+          "agent": 7.6000000000000005,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-47",
+          "date": null,
+          "month": "2026-06",
+          "area": "SAN VICENTE",
+          "name": "OBAY/ KAMBAL PISO WIFI",
+          "gross": 1667,
+          "internet": 800,
+          "electricity": 200,
+          "net": 667,
+          "consignee": 333.4,
+          "owner": 1300.25,
+          "agent": 33.35,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-48",
+          "date": null,
+          "month": "2026-06",
+          "area": "SAN VICENTE",
+          "name": "MATEO PISO WIFI",
+          "gross": 610,
+          "internet": 300,
+          "electricity": 150,
+          "net": 160,
+          "consignee": 182,
+          "owner": 420,
+          "agent": 8,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-49",
+          "date": null,
+          "month": "2026-06",
+          "area": "SAN VICENTE",
+          "name": "DAYO PISO WIFI",
+          "gross": 3040,
+          "internet": 1500,
+          "electricity": 400,
+          "net": 1140,
+          "consignee": 742,
+          "owner": 2248.182,
+          "agent": 49.818000000000005,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-50",
+          "date": null,
+          "month": "2026-06",
+          "area": "KIAWAN",
+          "name": "LOT LOT PISO WIFI",
+          "gross": 3044,
+          "internet": 1000,
+          "electricity": 800,
+          "net": 1244,
+          "consignee": 1048.8,
+          "owner": 1933,
+          "agent": 62.2,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-51",
+          "date": null,
+          "month": "2026-06",
+          "area": "KIAWAN",
+          "name": "BENGIE PISO WIFI",
+          "gross": 1338,
+          "internet": 500,
+          "electricity": 200,
+          "net": 638,
+          "consignee": 327.6,
+          "owner": 978.5,
+          "agent": 31.900000000000002,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-52",
+          "date": null,
+          "month": "2026-06",
+          "area": "KIAWAN",
+          "name": "RICKY PISO WIFI",
+          "gross": 733,
+          "internet": 300,
+          "electricity": 200,
+          "net": 233,
+          "consignee": 246.6,
+          "owner": 474.75,
+          "agent": 11.65,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-53",
+          "date": null,
+          "month": "2026-06",
+          "area": "STA. TERESA",
+          "name": "OTAZA PISO WIFI",
+          "gross": 2600,
+          "internet": 1300,
+          "electricity": 400,
+          "net": 900,
+          "consignee": 580,
+          "owner": 1975,
+          "agent": 45,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-54",
+          "date": null,
+          "month": "2026-06",
+          "area": "STA. TERESA",
+          "name": "SOLORIN PISO WIFI",
+          "gross": 1020,
+          "internet": 510,
+          "electricity": 400,
+          "net": 110,
+          "consignee": 422,
+          "owner": 592.5,
+          "agent": 5.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-55",
+          "date": null,
+          "month": "2026-06",
+          "area": "STA. TERESA",
+          "name": "BANTUASAN PISO WIFI",
+          "gross": 2430,
+          "internet": 1215,
+          "electricity": 400,
+          "net": 815,
+          "consignee": 563,
+          "owner": 1826.25,
+          "agent": 40.75,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-56",
+          "date": null,
+          "month": "2026-06",
+          "area": "STA. TERESA",
+          "name": "DIQUE PISO WIFI",
+          "gross": 2496,
+          "internet": 1248,
+          "electricity": 400,
+          "net": 848,
+          "consignee": 569.6,
+          "owner": 1884,
+          "agent": 42.400000000000006,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-57",
+          "date": null,
+          "month": "2026-06",
+          "area": "SAN MARIANO",
+          "name": "SUPETRAN PISO WIFI",
+          "gross": 1082,
+          "internet": 500,
+          "electricity": 150,
+          "net": 432,
+          "consignee": 236.4,
+          "owner": 824,
+          "agent": 21.6,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-58",
+          "date": null,
+          "month": "2026-06",
+          "area": "SAN MARIANO",
+          "name": "DAGUYLAAN PISO WIFI",
+          "gross": 1200,
+          "internet": 700,
+          "electricity": 150,
+          "net": 350,
+          "consignee": 220,
+          "owner": 962.5,
+          "agent": 17.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-59",
+          "date": null,
+          "month": "2026-06",
+          "area": "SAN MARIANO",
+          "name": "DAGUYLAAN PISO WIFI",
+          "gross": 1012,
+          "internet": 500,
+          "electricity": 150,
+          "net": 362,
+          "consignee": 222.4,
+          "owner": 771.5,
+          "agent": 18.1,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-60",
+          "date": null,
+          "month": "2026-06",
+          "area": "SAN MARIANO",
+          "name": "APALE PISO WIFI",
+          "gross": 870,
+          "internet": 400,
+          "electricity": 150,
+          "net": 320,
+          "consignee": 214,
+          "owner": 640,
+          "agent": 16,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-61",
+          "date": null,
+          "month": "2026-06",
+          "area": "SAN MARIANO",
+          "name": "OBAG PISO WIFI",
+          "gross": 2630,
+          "internet": 1500,
+          "electricity": 400,
+          "net": 730,
+          "consignee": 546,
+          "owner": 2047.5,
+          "agent": 36.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-62",
+          "date": null,
+          "month": "2026-06",
+          "area": "SAN MARIANO",
+          "name": "GENERALE PISO WIFI",
+          "gross": 860,
+          "internet": 450,
+          "electricity": 150,
+          "net": 260,
+          "consignee": 202,
+          "owner": 645,
+          "agent": 13,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-63",
+          "date": null,
+          "month": "2026-06",
+          "area": "KAUSWAGAN",
+          "name": "CASTRO PISO WIFI",
+          "gross": 2445,
+          "internet": 1500,
+          "electricity": 200,
+          "net": 745,
+          "consignee": 349,
+          "owner": 2058.75,
+          "agent": 37.25,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-64",
+          "date": null,
+          "month": "2026-06",
+          "area": "KAUSWAGAN",
+          "name": "VILLAROSA PISO WIFI",
+          "gross": 1336,
+          "internet": 900,
+          "electricity": 150,
+          "net": 286,
+          "consignee": 207.2,
+          "owner": 1114.5,
+          "agent": 14.3,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-65",
+          "date": null,
+          "month": "2026-06",
+          "area": "KAUSWAGAN",
+          "name": "CABLEROS PISO WIFI",
+          "gross": 1247,
+          "internet": 500,
+          "electricity": 150,
+          "net": 597,
+          "consignee": 269.4,
+          "owner": 947.75,
+          "agent": 29.85,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-66",
+          "date": null,
+          "month": "2026-06",
+          "area": "KAUSWAGAN",
+          "name": "MANGINSAY PISO WIFI",
+          "gross": 2770,
+          "internet": 1500,
+          "electricity": 200,
+          "net": 1070,
+          "consignee": 521,
+          "owner": 2202.241,
+          "agent": 46.759,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-67",
+          "date": null,
+          "month": "2026-06",
+          "area": "KAUSWAGAN",
+          "name": "MALAYAN PISO WIFI",
+          "gross": 1760,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 560,
+          "consignee": 312,
+          "owner": 1420,
+          "agent": 28,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-68",
+          "date": null,
+          "month": "2026-06",
+          "area": "KAUSWAGAN",
+          "name": "ESCOTOTO PISO WIFI",
+          "gross": 1367,
+          "internet": 700,
+          "electricity": 150,
+          "net": 517,
+          "consignee": 253.4,
+          "owner": 1087.75,
+          "agent": 25.85,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-69",
+          "date": null,
+          "month": "2026-06",
+          "area": "NUEVA GRACIA",
+          "name": "ZAI PISO WIFI",
+          "gross": 1176,
+          "internet": 600,
+          "electricity": 200,
+          "net": 376,
+          "consignee": 275.2,
+          "owner": 882,
+          "agent": 18.8,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-70",
+          "date": null,
+          "month": "2026-06",
+          "area": "NUEVA GRACIA",
+          "name": "KAP TABA PISO WIFI",
+          "gross": 1440,
+          "internet": 700,
+          "electricity": 200,
+          "net": 540,
+          "consignee": 308,
+          "owner": 1105,
+          "agent": 27,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-71",
+          "date": null,
+          "month": "2026-06",
+          "area": "NUEVA GRACIA",
+          "name": "TON-TON PISO WIFI",
+          "gross": 3870,
+          "internet": 1800,
+          "electricity": 200,
+          "net": 1870,
+          "consignee": 574,
+          "owner": 3202.5,
+          "agent": 93.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-72",
+          "date": null,
+          "month": "2026-06",
+          "area": "NUEVA GRACIA",
+          "name": "ABSALON PISO WIFI",
+          "gross": 2969,
+          "internet": 1800,
+          "electricity": 300,
+          "net": 869,
+          "consignee": 560.7,
+          "owner": 2370.3247,
+          "agent": 37.975300000000004,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-73",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "BANTUASAN PISO WIFI",
+          "gross": 1310,
+          "internet": 800,
+          "electricity": 0,
+          "net": 510,
+          "consignee": 153,
+          "owner": 1134.713,
+          "agent": 22.287000000000003,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-74",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "BLUE BLUE PISO WIFI",
+          "gross": 1525,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 325,
+          "consignee": 265,
+          "owner": 1243.75,
+          "agent": 16.25,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-75",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "CATEQUISTA PISO WIFI",
+          "gross": 1940,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 740,
+          "consignee": 348,
+          "owner": 1555,
+          "agent": 37,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-76",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "DON-DON PISO WIFI",
+          "gross": 1220,
+          "internet": 800,
+          "electricity": 200,
+          "net": 220,
+          "consignee": 244,
+          "owner": 965,
+          "agent": 11,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-77",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "PERATER PISO WIFI",
+          "gross": 585,
+          "internet": 300,
+          "electricity": 150,
+          "net": 135,
+          "consignee": 177,
+          "owner": 401.25,
+          "agent": 6.75,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-78",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "AGOC PISO WIFI",
+          "gross": 2800,
+          "internet": 1500,
+          "electricity": 200,
+          "net": 1100,
+          "consignee": 420,
+          "owner": 2325,
+          "agent": 55,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-79",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "BENGGA PISO WIFI",
+          "gross": 2500,
+          "internet": 1500,
+          "electricity": 200,
+          "net": 800,
+          "consignee": 360,
+          "owner": 2100,
+          "agent": 40,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-80",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "SUAREZ PISO WIFI",
+          "gross": 1357,
+          "internet": 900,
+          "electricity": 200,
+          "net": 257,
+          "consignee": 251.4,
+          "owner": 1092.75,
+          "agent": 12.850000000000001,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-81",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "AGUINALDO PISO WIFI",
+          "gross": 1290,
+          "internet": 700,
+          "electricity": 150,
+          "net": 440,
+          "consignee": 238,
+          "owner": 1030,
+          "agent": 22,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-82",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "FRANCISCO PISO WIFI",
+          "gross": 1000,
+          "internet": 500,
+          "electricity": 200,
+          "net": 300,
+          "consignee": 260,
+          "owner": 725,
+          "agent": 15,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-83",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "RANES PISO WIFI",
+          "gross": 1720,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 520,
+          "consignee": 356,
+          "owner": 1341.276,
+          "agent": 22.724,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-84",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "BUTRON PISO WIFI",
+          "gross": 2115,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 915,
+          "consignee": 474.5,
+          "owner": 1600.5145,
+          "agent": 39.9855,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-85",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "CEBALLOS PISO WIFI",
+          "gross": 1080,
+          "internet": 500,
+          "electricity": 200,
+          "net": 380,
+          "consignee": 276,
+          "owner": 785,
+          "agent": 19,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-86",
+          "date": null,
+          "month": "2026-06",
+          "area": "KABUHAYAN",
+          "name": "BADAO WIFI",
+          "gross": 1200,
+          "internet": 700,
+          "electricity": 200,
+          "net": 300,
+          "consignee": 260,
+          "owner": 925,
+          "agent": 15,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-87",
+          "date": null,
+          "month": "2026-06",
+          "area": "KABUHAYAN",
+          "name": "ESPANA PISO WIFI",
+          "gross": 920,
+          "internet": 500,
+          "electricity": 150,
+          "net": 270,
+          "consignee": 204,
+          "owner": 702.5,
+          "agent": 13.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-88",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "ORBINO PISO WIFI",
+          "gross": 6840,
+          "internet": 3420,
+          "electricity": 400,
+          "net": 3020,
+          "consignee": 1004,
+          "owner": 5685,
+          "agent": 151,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-89",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "COJO PISO WIFI",
+          "gross": 804,
+          "internet": 404,
+          "electricity": 200,
+          "net": 200,
+          "consignee": 240,
+          "owner": 554,
+          "agent": 10,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-90",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "OPAYLA PISO WIFI",
+          "gross": 1734,
+          "internet": 867,
+          "electricity": 300,
+          "net": 567,
+          "consignee": 413.4,
+          "owner": 1292.25,
+          "agent": 28.35,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-91",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "GERANDOY PISO WIFI",
+          "gross": 1173,
+          "internet": 561,
+          "electricity": 300,
+          "net": 312,
+          "consignee": 362.4,
+          "owner": 795,
+          "agent": 15.600000000000001,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-92",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "MAPUTOL PISO WIFI",
+          "gross": 4176,
+          "internet": 2088,
+          "electricity": 400,
+          "net": 1688,
+          "consignee": 906.4,
+          "owner": 3195.8343999999997,
+          "agent": 73.7656,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-93",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "CUBILLAS PISO WIFI",
+          "gross": 3100,
+          "internet": 1590,
+          "electricity": 400,
+          "net": 1110,
+          "consignee": 622,
+          "owner": 2422.5,
+          "agent": 55.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-94",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "TORRES PISO WIFI",
+          "gross": 3120,
+          "internet": 1560,
+          "electricity": 300,
+          "net": 1260,
+          "consignee": 678,
+          "owner": 2386.938,
+          "agent": 55.062000000000005,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-95",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "GARCIA PISO WIFI",
+          "gross": 1740,
+          "internet": 870,
+          "electricity": 400,
+          "net": 470,
+          "consignee": 541,
+          "owner": 1178.461,
+          "agent": 20.539,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-96",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "TONGSKIE PISO WIFI",
+          "gross": 1610,
+          "internet": 805,
+          "electricity": 400,
+          "net": 405,
+          "consignee": 481,
+          "owner": 1108.75,
+          "agent": 20.25,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-97",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "VALENTINA PISO WIFI",
+          "gross": 1698,
+          "internet": 849,
+          "electricity": 400,
+          "net": 449,
+          "consignee": 489.8,
+          "owner": 1185.75,
+          "agent": 22.450000000000003,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-98",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "CENIDO PISO WIFI",
+          "gross": 4100,
+          "internet": 2050,
+          "electricity": 400,
+          "net": 1650,
+          "consignee": 730,
+          "owner": 3287.5,
+          "agent": 82.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-99",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "SUMBLINGO PISO WIFI",
+          "gross": 3300,
+          "internet": 1650,
+          "electricity": 400,
+          "net": 1250,
+          "consignee": 650,
+          "owner": 2587.5,
+          "agent": 62.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-100",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "HAVANA PISO WIFI",
+          "gross": 2240,
+          "internet": 1120,
+          "electricity": 400,
+          "net": 720,
+          "consignee": 544,
+          "owner": 1660,
+          "agent": 36,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-101",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "GONZALES PISO WIFI",
+          "gross": 4310,
+          "internet": 2151,
+          "electricity": 400,
+          "net": 1759,
+          "consignee": 839.75,
+          "owner": 3387.7529,
+          "agent": 82.49709999999999,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-102",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "MERCADO PISO WIFI",
+          "gross": 995,
+          "internet": 497,
+          "electricity": 150,
+          "net": 348,
+          "consignee": 219.60000000000002,
+          "owner": 758,
+          "agent": 17.400000000000002,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-103",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "KAP DURANGGO PISO WIFI",
+          "gross": 900,
+          "internet": 450,
+          "electricity": 150,
+          "net": 300,
+          "consignee": 210,
+          "owner": 675,
+          "agent": 15,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-104",
+          "date": null,
+          "month": "2026-06",
+          "area": "UNMAPPED",
+          "name": "TELLOVEROS",
+          "gross": 1085,
+          "internet": 542,
+          "electricity": 300,
+          "net": 243,
+          "consignee": 348.6,
+          "owner": 724.25,
+          "agent": 12.15,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-105",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "Unassigned",
+          "name": "Bantuasan",
+          "gross": 1338,
+          "internet": 700,
+          "electricity": 200,
+          "net": 438,
+          "consignee": 287.6,
+          "owner": 1028.5,
+          "agent": 21.900000000000002,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-106",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "Unassigned",
+          "name": "Thormis",
+          "gross": 1207,
+          "internet": 750,
+          "electricity": 200,
+          "net": 257,
+          "consignee": 251.4,
+          "owner": 942.75,
+          "agent": 12.850000000000001,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-107",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "Unassigned",
+          "name": "Agu",
+          "gross": 1510,
+          "internet": 800,
+          "electricity": 200,
+          "net": 510,
+          "consignee": 302,
+          "owner": 1182.5,
+          "agent": 25.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-108",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "Unassigned",
+          "name": "Intes",
+          "gross": 2796,
+          "internet": 1500,
+          "electricity": 1112.5,
+          "net": 183.5,
+          "consignee": 1158.375,
+          "owner": 1629.01885,
+          "agent": 8.60615,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-109",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "Unassigned",
+          "name": "Generale",
+          "gross": 1462,
+          "internet": 800,
+          "electricity": 200,
+          "net": 462,
+          "consignee": 292.4,
+          "owner": 1146.5,
+          "agent": 23.1,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-110",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "Unassigned",
+          "name": "Daguylaan",
+          "gross": 2182,
+          "internet": 1300,
+          "electricity": 200,
+          "net": 682,
+          "consignee": 336.4,
+          "owner": 1811.5,
+          "agent": 34.1,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-111",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "Unassigned",
+          "name": "Jayla Havana",
+          "gross": 3419,
+          "internet": 1500,
+          "electricity": 400,
+          "net": 1519,
+          "consignee": 703.8,
+          "owner": 2639.25,
+          "agent": 75.95,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-112",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "Unassigned",
+          "name": "Dionisio Havana",
+          "gross": 2339,
+          "internet": 1500,
+          "electricity": 200,
+          "net": 639,
+          "consignee": 327.8,
+          "owner": 1979.25,
+          "agent": 31.950000000000003,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-113",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "Unassigned",
+          "name": "Saludo",
+          "gross": 2350,
+          "internet": 1300,
+          "electricity": 300,
+          "net": 750,
+          "consignee": 450,
+          "owner": 1862.5,
+          "agent": 37.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-114",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "Unassigned",
+          "name": "Montes",
+          "gross": 1840,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 640,
+          "consignee": 328,
+          "owner": 1480,
+          "agent": 32,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-115",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "Unassigned",
+          "name": "Aguinaldo",
+          "gross": 1039,
+          "internet": 500,
+          "electricity": 200,
+          "net": 339,
+          "consignee": 267.8,
+          "owner": 754.25,
+          "agent": 16.95,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-116",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "San Vicente",
+          "name": "Ballesteros",
+          "gross": 2134,
+          "internet": 1300,
+          "electricity": 200,
+          "net": 634,
+          "consignee": 326.8,
+          "owner": 1775.5,
+          "agent": 31.700000000000003,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-117",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "San Vicente",
+          "name": "Dayo",
+          "gross": 2787,
+          "internet": 1500,
+          "electricity": 300,
+          "net": 987,
+          "consignee": 497.4,
+          "owner": 2240.25,
+          "agent": 49.35,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-118",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "San Vicente",
+          "name": "Mateo",
+          "gross": 2007,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 807,
+          "consignee": 361.4,
+          "owner": 1605.25,
+          "agent": 40.35,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-119",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "San Vicente",
+          "name": "Lumad",
+          "gross": 2157,
+          "internet": 1500,
+          "electricity": 200,
+          "net": 457,
+          "consignee": 291.4,
+          "owner": 1842.75,
+          "agent": 22.85,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-120",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "San Vicente",
+          "name": "Barracks",
+          "gross": 2971,
+          "internet": 1500,
+          "electricity": 200,
+          "net": 1271,
+          "consignee": 454.20000000000005,
+          "owner": 2453.25,
+          "agent": 63.550000000000004,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-121",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "San Mariano",
+          "name": "Apale",
+          "gross": 1700,
+          "internet": 900,
+          "electricity": 200,
+          "net": 600,
+          "consignee": 320,
+          "owner": 1350,
+          "agent": 30,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-122",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "Unassigned",
+          "name": "Daguylaan",
+          "gross": 1600,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 400,
+          "consignee": 280,
+          "owner": 1300,
+          "agent": 20,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-123",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "Manawe",
+          "name": "Casal",
+          "gross": 2600,
+          "internet": 0,
+          "electricity": 300,
+          "net": 2300,
+          "consignee": 990,
+          "owner": 1509.49,
+          "agent": 100.51,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-124",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "Unassigned",
+          "name": "Velasco",
+          "gross": 1250,
+          "internet": 750,
+          "electricity": 200,
+          "net": 300,
+          "consignee": 260,
+          "owner": 975,
+          "agent": 15,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-125",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "Unassigned",
+          "name": "Gerona",
+          "gross": 2026,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 826,
+          "consignee": 365.20000000000005,
+          "owner": 1619.5,
+          "agent": 41.300000000000004,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-126",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "Unassigned",
+          "name": "Supertran",
+          "gross": 2528,
+          "internet": 1600,
+          "electricity": 200,
+          "net": 728,
+          "consignee": 345.6,
+          "owner": 2146,
+          "agent": 36.4,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-127",
+          "date": "2026-08-05",
+          "month": "2026-07",
+          "area": "Unassigned",
+          "name": "Castro",
+          "gross": 1920,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 720,
+          "consignee": 344,
+          "owner": 1540,
+          "agent": 36,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-128",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Langasian",
+          "name": "Kap Havana",
+          "gross": 1500,
+          "internet": 750,
+          "electricity": 200,
+          "net": 550,
+          "consignee": 310,
+          "owner": 1162.5,
+          "agent": 27.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-129",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Langasian",
+          "name": "Perez",
+          "gross": 712,
+          "internet": 400,
+          "electricity": 150,
+          "net": 162,
+          "consignee": 182.4,
+          "owner": 521.5,
+          "agent": 8.1,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-130",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Kabuhayan",
+          "name": "Espana",
+          "gross": 1543,
+          "internet": 400,
+          "electricity": 150,
+          "net": 993,
+          "consignee": 348.6,
+          "owner": 1144.75,
+          "agent": 49.650000000000006,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-131",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Kabuhayan",
+          "name": "Badao",
+          "gross": 2560,
+          "internet": 1000,
+          "electricity": 250,
+          "net": 1310,
+          "consignee": 512,
+          "owner": 1982.5,
+          "agent": 65.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-132",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Maitom",
+          "name": "Cenido",
+          "gross": 1828,
+          "internet": 400,
+          "electricity": 150,
+          "net": 1278,
+          "consignee": 405.6,
+          "owner": 1358.5,
+          "agent": 63.900000000000006,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-133",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Maitom",
+          "name": "Saliguhay",
+          "gross": 2492,
+          "internet": 400,
+          "electricity": 150,
+          "net": 1942,
+          "consignee": 538.4000000000001,
+          "owner": 1856.5,
+          "agent": 97.10000000000001,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-134",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Batohon",
+          "name": "Gonzales",
+          "gross": 814,
+          "internet": 400,
+          "electricity": 150,
+          "net": 264,
+          "consignee": 202.8,
+          "owner": 598,
+          "agent": 13.200000000000001,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-135",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Valentina",
+          "name": "Torres",
+          "gross": 2470,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 1270,
+          "consignee": 517.5,
+          "owner": 1892.937,
+          "agent": 59.562999999999995,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-136",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Valentina",
+          "name": "Daniel",
+          "gross": 1300,
+          "internet": 400,
+          "electricity": 150,
+          "net": 750,
+          "consignee": 300,
+          "owner": 962.5,
+          "agent": 37.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-137",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Guitas",
+          "name": "Orbino",
+          "gross": 2141,
+          "internet": 400,
+          "electricity": 150,
+          "net": 1591,
+          "consignee": 468.20000000000005,
+          "owner": 1593.25,
+          "agent": 79.55000000000001,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-138",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Guitas",
+          "name": "Catequista",
+          "gross": 503,
+          "internet": 300,
+          "electricity": 150,
+          "net": 53,
+          "consignee": 160.6,
+          "owner": 339.75,
+          "agent": 2.6500000000000004,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-139",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "San Mariano",
+          "name": "Obag",
+          "gross": 978,
+          "internet": 400,
+          "electricity": 150,
+          "net": 428,
+          "consignee": 235.60000000000002,
+          "owner": 721,
+          "agent": 21.400000000000002,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-140",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "San Mariano",
+          "name": "Torres",
+          "gross": 1046,
+          "internet": 400,
+          "electricity": 150,
+          "net": 496,
+          "consignee": 249.2,
+          "owner": 772,
+          "agent": 24.8,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-141",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "San Mariano",
+          "name": "Barbarona",
+          "gross": 1035,
+          "internet": 400,
+          "electricity": 150,
+          "net": 485,
+          "consignee": 247,
+          "owner": 763.75,
+          "agent": 24.25,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-142",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Bataan",
+          "name": "Yael",
+          "gross": 1587,
+          "internet": 400,
+          "electricity": 150,
+          "net": 1037,
+          "consignee": 357.4,
+          "owner": 1177.75,
+          "agent": 51.85,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-143",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Bataan",
+          "name": "Castro",
+          "gross": 754,
+          "internet": 400,
+          "electricity": 150,
+          "net": 204,
+          "consignee": 190.8,
+          "owner": 553,
+          "agent": 10.200000000000001,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-144",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Violanta",
+          "name": "Plana",
+          "gross": 1284,
+          "internet": 150,
+          "electricity": 400,
+          "net": 734,
+          "consignee": 546.8,
+          "owner": 700.5,
+          "agent": 36.7,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-145",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Johnson",
+          "name": "Empenio",
+          "gross": 2850,
+          "internet": 800,
+          "electricity": 200,
+          "net": 1850,
+          "consignee": 570,
+          "owner": 2187.5,
+          "agent": 92.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-146",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Johnson",
+          "name": "Garcia",
+          "gross": 990,
+          "internet": 400,
+          "electricity": 150,
+          "net": 440,
+          "consignee": 238,
+          "owner": 730,
+          "agent": 22,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-147",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Nueva",
+          "name": "Absalon",
+          "gross": 1116,
+          "internet": 400,
+          "electricity": 150,
+          "net": 566,
+          "consignee": 263.2,
+          "owner": 824.5,
+          "agent": 28.3,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-148",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Sta. Theresa",
+          "name": "Otaza",
+          "gross": 1050,
+          "internet": 400,
+          "electricity": 150,
+          "net": 500,
+          "consignee": 250,
+          "owner": 775,
+          "agent": 25,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-149",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Sta. Theresa",
+          "name": "Bantuasan",
+          "gross": 2084,
+          "internet": 1000,
+          "electricity": 400,
+          "net": 684,
+          "consignee": 536.8,
+          "owner": 1513,
+          "agent": 34.2,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-150",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Sta. Theresa",
+          "name": "Dique",
+          "gross": 1625,
+          "internet": 400,
+          "electricity": 150,
+          "net": 1075,
+          "consignee": 365,
+          "owner": 1206.25,
+          "agent": 53.75,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-151",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Sta. Theresa",
+          "name": "Solorin",
+          "gross": 1210,
+          "internet": 400,
+          "electricity": 150,
+          "net": 660,
+          "consignee": 282,
+          "owner": 895,
+          "agent": 33,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-152",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Sta. Theresa",
+          "name": "Ceballos",
+          "gross": 800,
+          "internet": 400,
+          "electricity": 150,
+          "net": 250,
+          "consignee": 200,
+          "owner": 587.5,
+          "agent": 12.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-153",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Kauswagan",
+          "name": "Butron",
+          "gross": 2787,
+          "internet": 400,
+          "electricity": 150,
+          "net": 2237,
+          "consignee": 597.4000000000001,
+          "owner": 2077.75,
+          "agent": 111.85000000000001,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-154",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Kauswagan",
+          "name": "Villarosa",
+          "gross": 2425,
+          "internet": 400,
+          "electricity": 150,
+          "net": 1875,
+          "consignee": 525,
+          "owner": 1806.25,
+          "agent": 93.75,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-155",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Kauswagan",
+          "name": "Malayan",
+          "gross": 1057,
+          "internet": 400,
+          "electricity": 150,
+          "net": 507,
+          "consignee": 251.4,
+          "owner": 780.25,
+          "agent": 25.35,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-156",
+          "date": "2026-08-19",
+          "month": "2026-07",
+          "area": "Kauswagan",
+          "name": "Escototo",
+          "gross": 3220,
+          "internet": 400,
+          "electricity": 150,
+          "net": 2670,
+          "consignee": 684,
+          "owner": 2402.5,
+          "agent": 133.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-157",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "San Mariano",
+          "name": "Apale",
+          "gross": 868,
+          "internet": 500,
+          "electricity": 150,
+          "net": 218,
+          "consignee": 193.6,
+          "owner": 663.5,
+          "agent": 10.9,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-158",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "New Visayas",
+          "name": "Sublingo",
+          "gross": 399,
+          "internet": 0,
+          "electricity": 80,
+          "net": 319,
+          "consignee": 143.8,
+          "owner": 239.25,
+          "agent": 15.950000000000001,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-159",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "Magbuya",
+          "name": "Mercado",
+          "gross": 435,
+          "internet": 0,
+          "electricity": 0,
+          "net": 435,
+          "consignee": 87,
+          "owner": 326.25,
+          "agent": 21.75,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-160",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "San Patricio",
+          "name": "Napoco",
+          "gross": 840,
+          "internet": 400,
+          "electricity": 150,
+          "net": 290,
+          "consignee": 208,
+          "owner": 617.5,
+          "agent": 14.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-161",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "San Patricio",
+          "name": "Mondejar",
+          "gross": 2513,
+          "internet": 1500,
+          "electricity": 300,
+          "net": 713,
+          "consignee": 442.6,
+          "owner": 2034.75,
+          "agent": 35.65,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-162",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "Manawe",
+          "name": "Casal",
+          "gross": 1819,
+          "internet": 0,
+          "electricity": 200,
+          "net": 1619,
+          "consignee": 685.7,
+          "owner": 1062.5497,
+          "agent": 70.75030000000001,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-163",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "New Visayas",
+          "name": "Suarez",
+          "gross": 1113,
+          "internet": 500,
+          "electricity": 150,
+          "net": 463,
+          "consignee": 242.60000000000002,
+          "owner": 847.25,
+          "agent": 23.150000000000002,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-164",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "Batohon",
+          "name": "Canja",
+          "gross": 620,
+          "internet": 400,
+          "electricity": 150,
+          "net": 70,
+          "consignee": 164,
+          "owner": 452.5,
+          "agent": 3.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-165",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "Unassigned",
+          "name": "Jalipa",
+          "gross": 2398,
+          "internet": 1400,
+          "electricity": 150,
+          "net": 848,
+          "consignee": 319.6,
+          "owner": 2036,
+          "agent": 42.400000000000006,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-166",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "Unassigned",
+          "name": "Padilla",
+          "gross": 1378,
+          "internet": 800,
+          "electricity": 150,
+          "net": 428,
+          "consignee": 235.60000000000002,
+          "owner": 1121,
+          "agent": 21.400000000000002,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-167",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "Violanta",
+          "name": "Ramos",
+          "gross": 1517,
+          "internet": 800,
+          "electricity": 150,
+          "net": 567,
+          "consignee": 263.4,
+          "owner": 1225.25,
+          "agent": 28.35,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-168",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "Unassigned",
+          "name": "Opala",
+          "gross": 990,
+          "internet": 643.5,
+          "electricity": 150,
+          "net": 196.5,
+          "consignee": 189.3,
+          "owner": 790.875,
+          "agent": 9.825000000000001,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-169",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "Guitas",
+          "name": "Bengga",
+          "gross": 2504,
+          "internet": 1300,
+          "electricity": 200,
+          "net": 1004,
+          "consignee": 400.8,
+          "owner": 2053,
+          "agent": 50.2,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-170",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "Guitas",
+          "name": "Ranes",
+          "gross": 1147,
+          "internet": 500,
+          "electricity": 200,
+          "net": 447,
+          "consignee": 289.4,
+          "owner": 835.25,
+          "agent": 22.35,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-171",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "Manawe",
+          "name": "Eljean",
+          "gross": 692,
+          "internet": 400,
+          "electricity": 150,
+          "net": 142,
+          "consignee": 178.4,
+          "owner": 506.5,
+          "agent": 7.1000000000000005,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-172",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "San Vicente",
+          "name": "Ballesteros",
+          "gross": 780,
+          "internet": 400,
+          "electricity": 150,
+          "net": 230,
+          "consignee": 196,
+          "owner": 572.5,
+          "agent": 11.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-173",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "San Vicente",
+          "name": "Barracks",
+          "gross": 1315,
+          "internet": 700,
+          "electricity": 150,
+          "net": 465,
+          "consignee": 243,
+          "owner": 1048.75,
+          "agent": 23.25,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-174",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "San Vicente",
+          "name": "Mateo",
+          "gross": 2500,
+          "internet": 1500,
+          "electricity": 150,
+          "net": 850,
+          "consignee": 320,
+          "owner": 2137.5,
+          "agent": 42.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-175",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "San Vicente",
+          "name": "Dayo",
+          "gross": 2460,
+          "internet": 1200,
+          "electricity": 200,
+          "net": 1060,
+          "consignee": 465,
+          "owner": 1945.286,
+          "agent": 49.714,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-176",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "San Mariano",
+          "name": "Ubay",
+          "gross": 1280,
+          "internet": 500,
+          "electricity": 150,
+          "net": 630,
+          "consignee": 276,
+          "owner": 972.5,
+          "agent": 31.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-177",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "Bataan",
+          "name": "Dodong",
+          "gross": 550,
+          "internet": 350,
+          "electricity": 150,
+          "net": 50,
+          "consignee": 160,
+          "owner": 387.5,
+          "agent": 2.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-178",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "Bataan",
+          "name": "Havana",
+          "gross": 465,
+          "internet": 300,
+          "electricity": 150,
+          "net": 15,
+          "consignee": 153,
+          "owner": 311.25,
+          "agent": 0.75,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-179",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "Bataan",
+          "name": "Aguinaldo",
+          "gross": 555,
+          "internet": 400,
+          "electricity": 150,
+          "net": 5,
+          "consignee": 151,
+          "owner": 403.75,
+          "agent": 0.25,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-180",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "Langasian",
+          "name": "Saludo",
+          "gross": 743,
+          "internet": 400,
+          "electricity": 150,
+          "net": 193,
+          "consignee": 188.6,
+          "owner": 544.75,
+          "agent": 9.65,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-181",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "Langasian",
+          "name": "Montes",
+          "gross": 1484,
+          "internet": 700,
+          "electricity": 150,
+          "net": 634,
+          "consignee": 276.8,
+          "owner": 1175.5,
+          "agent": 31.700000000000003,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-182",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "Langasian",
+          "name": "Jayla Havana",
+          "gross": 1000,
+          "internet": 500,
+          "electricity": 200,
+          "net": 300,
+          "consignee": 260,
+          "owner": 725,
+          "agent": 15,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-183",
+          "date": "2026-08-27",
+          "month": "2026-07",
+          "area": "Langasian",
+          "name": "Dionisio Havana",
+          "gross": 1856,
+          "internet": 1000,
+          "electricity": 150,
+          "net": 706,
+          "consignee": 291.20000000000005,
+          "owner": 1529.5,
+          "agent": 35.300000000000004,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-184",
+          "date": "2026-08-08",
+          "month": "2026-08",
+          "area": "Unassigned",
+          "name": "LEMOS",
+          "gross": 1103,
+          "internet": 500,
+          "electricity": 200,
+          "net": 403,
+          "consignee": 280.6,
+          "owner": 802.25,
+          "agent": 20.150000000000002,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-185",
+          "date": "2026-08-08",
+          "month": "2026-08",
+          "area": "Unassigned",
+          "name": "ESCRIN",
+          "gross": 1710,
+          "internet": 500,
+          "electricity": 200,
+          "net": 1010,
+          "consignee": 503,
+          "owner": 1162.8629999999998,
+          "agent": 44.137,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-186",
+          "date": "2026-08-08",
+          "month": "2026-08",
+          "area": "Unassigned",
+          "name": "SUPETRAN",
+          "gross": 1638,
+          "internet": 700,
+          "electricity": 150,
+          "net": 788,
+          "consignee": 307.6,
+          "owner": 1291,
+          "agent": 39.400000000000006,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-187",
+          "date": "2026-08-08",
+          "month": "2026-08",
+          "area": "Unassigned",
+          "name": "DAGUYLAAN",
+          "gross": 2465,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 1265,
+          "consignee": 453,
+          "owner": 1948.75,
+          "agent": 63.25,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-188",
+          "date": "2026-08-08",
+          "month": "2026-08",
+          "area": "Unassigned",
+          "name": "THORMIS",
+          "gross": 1029,
+          "internet": 500,
+          "electricity": 150,
+          "net": 379,
+          "consignee": 225.8,
+          "owner": 784.25,
+          "agent": 18.95,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-189",
+          "date": "2026-08-08",
+          "month": "2026-08",
+          "area": "Unassigned",
+          "name": "AGOK",
+          "gross": 2010,
+          "internet": 1000,
+          "electricity": 150,
+          "net": 860,
+          "consignee": 322,
+          "owner": 1645,
+          "agent": 43,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-190",
+          "date": "2026-08-08",
+          "month": "2026-08",
+          "area": "Unassigned",
+          "name": "INTES",
+          "gross": 1971,
+          "internet": 1000,
+          "electricity": 725,
+          "net": 246,
+          "consignee": 774.2,
+          "owner": 1184.5,
+          "agent": 12.3,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-191",
+          "date": "2026-08-08",
+          "month": "2026-08",
+          "area": "Unassigned",
+          "name": "MANGINSAY",
+          "gross": 4460,
+          "internet": 2000,
+          "electricity": 400,
+          "net": 2060,
+          "consignee": 915,
+          "owner": 3448.386,
+          "agent": 96.61399999999999,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-192",
+          "date": "2026-08-08",
+          "month": "2026-08",
+          "area": "Unassigned",
+          "name": "LORO",
+          "gross": 4501,
+          "internet": 2000,
+          "electricity": 300,
+          "net": 2201,
+          "consignee": 740.2,
+          "owner": 3650.75,
+          "agent": 110.05000000000001,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-193",
+          "date": "2026-08-08",
+          "month": "2026-08",
+          "area": "Unassigned",
+          "name": "CASTRO",
+          "gross": 2226,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 1026,
+          "consignee": 405.20000000000005,
+          "owner": 1769.5,
+          "agent": 51.300000000000004,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-194",
+          "date": "2026-08-08",
+          "month": "2026-08",
+          "area": "Unassigned",
+          "name": "HAVANA",
+          "gross": 1616,
+          "internet": 700,
+          "electricity": 200,
+          "net": 716,
+          "consignee": 343.20000000000005,
+          "owner": 1237,
+          "agent": 35.800000000000004,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-195",
+          "date": "2026-08-17",
+          "month": "2026-08",
+          "area": "Unassigned",
+          "name": "DIQUE",
+          "gross": 1575,
+          "internet": 800,
+          "electricity": 150,
+          "net": 625,
+          "consignee": 275,
+          "owner": 1268.75,
+          "agent": 31.25,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-196",
+          "date": "2026-08-17",
+          "month": "2026-08",
+          "area": "Unassigned",
+          "name": "UBAY",
+          "gross": 4200,
+          "internet": 1800,
+          "electricity": 200,
+          "net": 2200,
+          "consignee": 640,
+          "owner": 3450,
+          "agent": 110,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-197",
+          "date": "2026-08-17",
+          "month": "2026-08",
+          "area": "Unassigned",
+          "name": "CUBILLAS",
+          "gross": 1620,
+          "internet": 800,
+          "electricity": 200,
+          "net": 620,
+          "consignee": 324,
+          "owner": 1265,
+          "agent": 31,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-198",
+          "date": "2026-08-17",
+          "month": "2026-08",
+          "area": "Unassigned",
+          "name": "MAPUTOL",
+          "gross": 4327,
+          "internet": 2000,
+          "electricity": 250,
+          "net": 2077,
+          "consignee": 769.25,
+          "owner": 3460.3387,
+          "agent": 97.4113,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-199",
+          "date": "2026-08-17",
+          "month": "2026-08",
+          "area": "Unassigned",
+          "name": "TORRES",
+          "gross": 2565,
+          "internet": 1000,
+          "electricity": 200,
+          "net": 1365,
+          "consignee": 541.25,
+          "owner": 1959.7314999999999,
+          "agent": 64.0185,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-200",
+          "date": "2026-08-17",
+          "month": "2026-08",
+          "area": "Unassigned",
+          "name": "OTAZA",
+          "gross": 1240,
+          "internet": 500,
+          "electricity": 150,
+          "net": 590,
+          "consignee": 268,
+          "owner": 942.5,
+          "agent": 29.5,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-201",
+          "date": "2026-08-17",
+          "month": "2026-08",
+          "area": "Unassigned",
+          "name": "BANTUAZAN",
+          "gross": 2040,
+          "internet": 1000,
+          "electricity": 300,
+          "net": 740,
+          "consignee": 448,
+          "owner": 1555,
+          "agent": 37,
+          "source": "Imported"
+        },
+        {
+          "id": "harvest-202",
+          "date": "2026-08-17",
+          "month": "2026-08",
+          "area": "Unassigned",
+          "name": "SOLORIN",
+          "gross": 2101,
+          "internet": 1000,
+          "electricity": 150,
+          "net": 951,
+          "consignee": 340.20000000000005,
+          "owner": 1713.25,
+          "agent": 47.550000000000004,
+          "source": "Imported"
+        }
+      ],
+      "expenses": [
+        {
+          "id": "expense-3",
+          "date": "2026-05-04",
+          "month": "2026-05",
+          "category": "Internet/ISP",
+          "amount": 3800,
+          "description": "STARLINK- San Mariano",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-4",
+          "date": "2026-05-04",
+          "month": "2026-05",
+          "category": "Internet/ISP",
+          "amount": 3800,
+          "description": "STARLINK- Langasian",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-5",
+          "date": "2026-05-05",
+          "month": "2026-05",
+          "category": "Internet/ISP",
+          "amount": 3800,
+          "description": "STARLINK- Sta. Theresa",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-6",
+          "date": "2026-05-05",
+          "month": "2026-05",
+          "category": "Internet/ISP",
+          "amount": 3800,
+          "description": "STARLINK- Kauswagan",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-7",
+          "date": "2026-05-06",
+          "month": "2026-05",
+          "category": "Internet/ISP",
+          "amount": 3800,
+          "description": "STARLINK-Kiawan",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-8",
+          "date": "2026-05-07",
+          "month": "2026-05",
+          "category": "Internet/ISP",
+          "amount": 11000,
+          "description": "CONVERGE",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-9",
+          "date": "2026-05-10",
+          "month": "2026-05",
+          "category": "Internet/ISP",
+          "amount": 2983,
+          "description": "Advance Payment STARLINK- Sta. teresa",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-10",
+          "date": "2026-05-10",
+          "month": "2026-05",
+          "category": "Internet/ISP",
+          "amount": 2983,
+          "description": "Advance Payment STARLINK- Kauswagan",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-11",
+          "date": "2026-05-20",
+          "month": "2026-05",
+          "category": "Internet/ISP",
+          "amount": 2982,
+          "description": "Advance Payment STARLINK- San Mariano",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-12",
+          "date": "2026-05-20",
+          "month": "2026-05",
+          "category": "Internet/ISP",
+          "amount": 2982,
+          "description": "Advance Payment STARLINK- Langasian",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-13",
+          "date": "2026-05-27",
+          "month": "2026-05",
+          "category": "Internet/ISP",
+          "amount": 563.18,
+          "description": "Converge remaining balance for 1st month",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-14",
+          "date": "2026-05-27",
+          "month": "2026-05",
+          "category": "Internet/ISP",
+          "amount": 3167.82,
+          "description": "Advance Payment STARLINK- Kiawan",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-15",
+          "date": "2026-05-04",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 380,
+          "description": "Ram computer Trading",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-16",
+          "date": "2026-05-04",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 3987,
+          "description": "Yannie",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-17",
+          "date": "2026-05-04",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 300,
+          "description": "Gas/ Fuel expense",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-18",
+          "date": "2026-05-05",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 200,
+          "description": "Gas/ Fuel expense",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-19",
+          "date": "2026-05-06",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 400,
+          "description": "2 days Gas/ Fuel expense",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-20",
+          "date": "2026-05-09",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 300,
+          "description": "Gas/ Fuel expense",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-21",
+          "date": "2026-05-13",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 200,
+          "description": "Gas/ Fuel expense",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-22",
+          "date": "2026-05-14",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 600,
+          "description": "3 Gas/ Fuel expense",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-23",
+          "date": "2026-05-15",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 300,
+          "description": "Gas/ Fuel expense",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-24",
+          "date": "2026-05-15",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 150,
+          "description": "Kaon- Palit Materials",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-25",
+          "date": "2026-05-16",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 300,
+          "description": "Kaon/Gas Gemson",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-26",
+          "date": "2026-05-16",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 250,
+          "description": "Gas/ Fuel expense sa Motor gigamit hakot ladder",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-27",
+          "date": "2026-05-16",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 200,
+          "description": "Snack KJ/ Gemson",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-28",
+          "date": "2026-05-16",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 680,
+          "description": "Gas/ Fuel Expense- Gemson and Katig",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-29",
+          "date": "2026-05-15",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 13975,
+          "description": "Double R Comtech Ladder",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-30",
+          "date": "2026-05-15",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 7865,
+          "description": "Yannie 053720",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-31",
+          "date": "2026-05-15",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 3100,
+          "description": "Tie Wire",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-32",
+          "date": "2026-05-15",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 919,
+          "description": "Unitop- Harness",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-33",
+          "date": "2026-05-16",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 1700,
+          "description": "Yannie 053757",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-34",
+          "date": "2026-05-16",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 60,
+          "description": "Laak MC",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-35",
+          "date": "2026-05-16",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 110,
+          "description": "Laak MC",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-36",
+          "date": "2026-05-16",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 1648,
+          "description": "Tie Wire 11471",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-37",
+          "date": "2026-05-18",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 500,
+          "description": "Gas 2 days",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-38",
+          "date": "2026-05-18",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 300,
+          "description": "Snacks- repair sa tower/ 2x",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-39",
+          "date": "2026-05-18",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 194,
+          "description": "Lunch",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-40",
+          "date": "2026-05-19",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 805,
+          "description": "Tubo/Drill bit",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-41",
+          "date": "2026-05-19",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 50,
+          "description": "Adapter ",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-42",
+          "date": "2026-05-19",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 3000,
+          "description": "Labor sa nag banting/saka",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-43",
+          "date": "2026-05-19",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 9400,
+          "description": "Piyesa/arkela sa pisi- Roslyn ",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-44",
+          "date": "2026-05-26",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 900,
+          "description": "Gas 25,26,27",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-45",
+          "date": "2026-05-27",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 1000,
+          "description": "Tubo and banting para sa new nga vendo",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-46",
+          "date": "2026-05-29",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 5070,
+          "description": "Red Dragon- Crimping, cslot, medCon,RJ45",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-47",
+          "date": "2026-05-29",
+          "month": "2026-05",
+          "category": "Components/Piyesa",
+          "amount": 200,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-48",
+          "date": "2026-05-31",
+          "month": "2026-05",
+          "category": "Manpower",
+          "amount": 3033,
+          "description": "KJ",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-49",
+          "date": "2026-05-31",
+          "month": "2026-05",
+          "category": "Manpower",
+          "amount": -200,
+          "description": "GEMSON",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-50",
+          "date": "2026-05-31",
+          "month": "2026-05",
+          "category": "Manpower",
+          "amount": 3350,
+          "description": "TOTO",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-51",
+          "date": "2026-05-31",
+          "month": "2026-05",
+          "category": "Manpower",
+          "amount": 2300,
+          "description": "Reyster",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-52",
+          "date": "2026-05-31",
+          "month": "2026-05",
+          "category": "Manpower",
+          "amount": 29617,
+          "description": "Cash Advance and NET PAY",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-53",
+          "date": "2026-05-05",
+          "month": "2026-05",
+          "category": "Misc",
+          "amount": 10000,
+          "description": "Pa-notaryo sa Kasulatan",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-54",
+          "date": "2026-05-07",
+          "month": "2026-05",
+          "category": "Misc",
+          "amount": 500,
+          "description": "Gihatag sa nagtaod- converge",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-55",
+          "date": "2026-05-11",
+          "month": "2026-05",
+          "category": "Misc",
+          "amount": 500,
+          "description": "Paayo sa tricycle",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-56",
+          "date": "2026-05-26",
+          "month": "2026-05",
+          "category": "Misc",
+          "amount": 1030,
+          "description": "DTI registration",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-57",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Internet/ISP",
+          "amount": 3800,
+          "description": "STARLINK- San Mariano",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-58",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Internet/ISP",
+          "amount": 3800,
+          "description": "STARLINK- Langasian",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-59",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Internet/ISP",
+          "amount": 3800,
+          "description": "STARLINK- Sta. Theresa",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-60",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Internet/ISP",
+          "amount": 3800,
+          "description": "STARLINK- Kauswagan",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-61",
+          "date": "2026-06-20",
+          "month": "2026-06",
+          "category": "Internet/ISP",
+          "amount": 1318,
+          "description": "PLDT ISP 1",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-62",
+          "date": "2026-06-24",
+          "month": "2026-06",
+          "category": "Internet/ISP",
+          "amount": 2706,
+          "description": "PLDT BUNAWAN ISP 2",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-63",
+          "date": "2026-06-02",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 5750,
+          "description": "Interest sa Giutang sa Nox (40k) nga dapat kang gemson",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-64",
+          "date": "2026-06-02",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 10506,
+          "description": "Interest sa nagamit sa nox nga kwarta (natapal)",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-65",
+          "date": "2026-06-02",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 400,
+          "description": "MediaCon Giga",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-66",
+          "date": "2026-06-02",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 675,
+          "description": "SC-UPC Connector/ TPL router",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-67",
+          "date": "2026-06-02",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 6850,
+          "description": "2Core 2km",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-68",
+          "date": "2026-06-02",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 250,
+          "description": "Vulcanize Gemson",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-69",
+          "date": "2026-06-02",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 255,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-70",
+          "date": "2026-06-02",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 300,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-71",
+          "date": "2026-06-03",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 250,
+          "description": "Vulcanize Gemson",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-72",
+          "date": "2026-06-04",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 200,
+          "description": "Gas Katig",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-73",
+          "date": "2026-06-05",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 7000,
+          "description": "Allowance sa Tao for June",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-74",
+          "date": "2026-06-08",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 340,
+          "description": "Cellophane (34 x 10 pcs)",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-75",
+          "date": "2026-06-08",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 2700,
+          "description": "Yannie S-lock 60 pcs",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-76",
+          "date": "2026-06-08",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 6135,
+          "description": "Yaniie S-lock  (40 pcs) and additional Piyesa (coinslot, mediacon)",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-77",
+          "date": "2026-06-08",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 350,
+          "description": "Expenses new-BH",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-78",
+          "date": "2026-06-09",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 700,
+          "description": "Gamit sa New-BH",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-79",
+          "date": "2026-06-09",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 6000,
+          "description": "Boarding House-Down payment",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-80",
+          "date": "2026-06-09",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 1200,
+          "description": "Gas/ harvest 3 ka motor",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-81",
+          "date": "2026-06-09",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 100,
+          "description": "Snacks sa nag-harvest ",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-82",
+          "date": "2026-06-10",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 200,
+          "description": "Gas- 2 ka motor",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-83",
+          "date": "2026-06-11",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 285,
+          "description": "Gas Motor KJ",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-84",
+          "date": "2026-06-11",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 9000,
+          "description": "Barena + Led lights",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-85",
+          "date": "2026-06-11",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 2000,
+          "description": "Bayad sa Tower Bunawan and Kuryente (2 months)",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-86",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 725,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-87",
+          "date": "2026-06-16",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 90,
+          "description": "butane/expense",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-88",
+          "date": "2026-06-16",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 185,
+          "description": "Gamit sa BH",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-89",
+          "date": "2026-06-17",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 164,
+          "description": "Gas Lumiguid",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-90",
+          "date": "2026-06-18",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 246,
+          "description": "Gas Katig",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-91",
+          "date": "2026-06-19",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 384,
+          "description": "Gas Pabunawan",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-92",
+          "date": "2026-06-19",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 164,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-93",
+          "date": "2026-06-20",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 205,
+          "description": "Gas- Reserved Katig",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-94",
+          "date": "2026-06-23",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 3525,
+          "description": "Piyesa (MediaCon, Coinslot)",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-95",
+          "date": "2026-06-23",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 500,
+          "description": "Gas sa Van",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-96",
+          "date": "2026-06-25",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 530,
+          "description": "Expenses sa pagbalhin sa battery and inverter",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-97",
+          "date": "2026-06-25",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 50,
+          "description": "Plug",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-98",
+          "date": "2026-06-25",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 350,
+          "description": "Gas sa Van",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-99",
+          "date": "2026-06-26",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 409,
+          "description": "Gas sa Van plus Guma",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-100",
+          "date": "2026-06-27",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 560,
+          "description": "Gas sa Van",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-101",
+          "date": "2026-06-23",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 1000,
+          "description": "Labor for Carrier",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-102",
+          "date": "2026-06-23",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 5500,
+          "description": "Carrier pabuhat partial 1k- materials 4500",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-103",
+          "date": "2026-06-29",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 130,
+          "description": "bolt plusweilding rod",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-104",
+          "date": "2026-06-29",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 960,
+          "description": "Gas Meeting 500 and expenses/foods 460",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-105",
+          "date": "2026-06-29",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 2300,
+          "description": "Initial Full Tank para sa Harvest June 30",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-106",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 1580,
+          "description": "Gas sa Motor 300, 200, 80/ Gas Van- 500, 500",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-107",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 430,
+          "description": "Adjustable Wrench",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-108",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Components/Piyesa",
+          "amount": 315,
+          "description": "Pulley and Carabiner",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-109",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Manpower",
+          "amount": 9989,
+          "description": "KJ",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-110",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Manpower",
+          "amount": 1100,
+          "description": "GEMSON",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-111",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Manpower",
+          "amount": 8155,
+          "description": "TOTO",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-112",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Manpower",
+          "amount": 3550,
+          "description": "Reyster",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-113",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Manpower",
+          "amount": 19456,
+          "description": "Cash Advance and NET PAY",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-114",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Misc",
+          "amount": 2000,
+          "description": "Harvester Marco",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-115",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Misc",
+          "amount": 871,
+          "description": "Snacks, panihapon, butane sa Harvest and Manpower. 100, 50, 25, 120 tubig, 36, 300, 165, 75",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-116",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Misc",
+          "amount": 980,
+          "description": "Pisi 70 meters",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-117",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Misc",
+          "amount": 6230,
+          "description": "Bantuasan Tower and Kuryente- FULL PAYMENT (pullout)",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-118",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Tower Rental Payment",
+          "amount": 2000,
+          "description": "Absalon Tower- May and June",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-119",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Tower Rental Payment",
+          "amount": 2000,
+          "description": "Casal Main Tower- May and June",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-120",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Tower Rental Payment",
+          "amount": 750,
+          "description": "Casal Main tower- Refund kay dapat walay internet last month",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-121",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Misc",
+          "amount": 100,
+          "description": "BRGY. LANGASIAN- Agent",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-122",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Misc",
+          "amount": 200,
+          "description": "Manginsay Kauswagan Agent",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-123",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Misc",
+          "amount": 1200,
+          "description": "Padlock 15x80",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-124",
+          "date": "2026-06-30",
+          "month": "2026-06",
+          "category": "Misc",
+          "amount": 11078,
+          "description": "Sakyanan",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-125",
+          "date": "2026-07-31",
+          "month": "2026-07",
+          "category": "Internet/ISP",
+          "amount": 4099,
+          "description": "STARLINK- San Mariano",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-126",
+          "date": "2026-07-31",
+          "month": "2026-07",
+          "category": "Internet/ISP",
+          "amount": 4099,
+          "description": "STARLINK- Langasian",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-127",
+          "date": "2026-07-31",
+          "month": "2026-07",
+          "category": "Internet/ISP",
+          "amount": 4099,
+          "description": "STARLINK- Sta. Theresa",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-128",
+          "date": "2026-07-31",
+          "month": "2026-07",
+          "category": "Internet/ISP",
+          "amount": 4099,
+          "description": "STARLINK- Kauswagan",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-129",
+          "date": "2026-07-31",
+          "month": "2026-07",
+          "category": "Internet/ISP",
+          "amount": 4099,
+          "description": "STARLINK-Kiawan",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-130",
+          "date": "2026-07-31",
+          "month": "2026-07",
+          "category": "Internet/ISP",
+          "amount": 2706,
+          "description": "PLDT BUNAWAN ISP 1",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-131",
+          "date": "2026-07-04",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 15770,
+          "description": "Yannie Piyesa",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-132",
+          "date": "2026-07-06",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 2000,
+          "description": "Full Payment sa Labor Carrier, 3000 full payment",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-133",
+          "date": "2026-07-06",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 2000,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-134",
+          "date": "2026-07-07",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 120,
+          "description": "Battery",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-135",
+          "date": "2026-07-08",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 400,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-136",
+          "date": "2026-07-09",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 160,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-137",
+          "date": "2026-07-09",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 400,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-138",
+          "date": "2026-07-10",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 320,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-139",
+          "date": "2026-07-11",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 480,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-140",
+          "date": "2026-07-13",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 1000,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-141",
+          "date": "2026-07-13",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 1000,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-142",
+          "date": "2026-07-13",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 300,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-143",
+          "date": "2026-07-14",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 150,
+          "description": "Vulcanize",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-144",
+          "date": "2026-07-15",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 11295,
+          "description": "COMLINK DOUBLE EXTENDED LADDER",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-145",
+          "date": "2026-07-15",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 375,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-146",
+          "date": "2026-07-16",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 975,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-147",
+          "date": "2026-07-18",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 480,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-148",
+          "date": "2026-07-20",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 480,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-149",
+          "date": "2026-07-20",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 1020,
+          "description": "Tower Disassembly (Sto. Tomas)",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-150",
+          "date": "2026-07-26",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 310,
+          "description": "Plete KJ (nagkuha sa sakyanan sa Carmen)",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-151",
+          "date": "2026-07-27",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 500,
+          "description": "Kat-kat sa Tower",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-152",
+          "date": "2026-07-27",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 1000,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-153",
+          "date": "2026-07-27",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 3840,
+          "description": "Piyesa Yannie",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-154",
+          "date": "2026-07-29",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 425,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-155",
+          "date": "2026-07-30",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 510,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-156",
+          "date": "2026-07-31",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 300,
+          "description": "Bulkit",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-157",
+          "date": "2026-07-31",
+          "month": "2026-07",
+          "category": "Components/Piyesa",
+          "amount": 4075,
+          "description": "SWELDO BINSOY",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-158",
+          "date": "2026-07-31",
+          "month": "2026-07",
+          "category": "Manpower",
+          "amount": 180,
+          "description": "KJ",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-159",
+          "date": "2026-07-31",
+          "month": "2026-07",
+          "category": "Manpower",
+          "amount": 1148.5,
+          "description": "GEMSON",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-160",
+          "date": "2026-07-31",
+          "month": "2026-07",
+          "category": "Manpower",
+          "amount": 3348,
+          "description": "TOTO",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-161",
+          "date": "2026-07-31",
+          "month": "2026-07",
+          "category": "Manpower",
+          "amount": 4010,
+          "description": "Reyster",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-162",
+          "date": "2026-07-31",
+          "month": "2026-07",
+          "category": "Manpower",
+          "amount": 24070,
+          "description": "Cash Advance and NET PAY",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-163",
+          "date": "2026-07-22",
+          "month": "2026-07",
+          "category": "Tower Rental Payment",
+          "amount": 2000,
+          "description": "Torres Tower Payment 2 months- May and June",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-164",
+          "date": "2026-07-22",
+          "month": "2026-07",
+          "category": "Tower Rental Payment",
+          "amount": 3200,
+          "description": "Jolipa Tower Payment 2 months- May, June, July",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-165",
+          "date": "2026-07-23",
+          "month": "2026-07",
+          "category": "Misc",
+          "amount": 4000,
+          "description": "Harvester 4 daysx 2",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-166",
+          "date": "2026-07-30",
+          "month": "2026-07",
+          "category": "Misc",
+          "amount": 300,
+          "description": "Ballesteros- Business Cert",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-167",
+          "date": "2026-07-31",
+          "month": "2026-07",
+          "category": "Car Loan",
+          "amount": 11078,
+          "description": "Car Loan",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-168",
+          "date": "2026-08-31",
+          "month": "2026-08",
+          "category": "Internet/ISP",
+          "amount": 4099,
+          "description": "STARLINK- San Mariano",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-169",
+          "date": "2026-08-31",
+          "month": "2026-08",
+          "category": "Internet/ISP",
+          "amount": 4099,
+          "description": "STARLINK- Langasian",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-170",
+          "date": "2026-08-31",
+          "month": "2026-08",
+          "category": "Internet/ISP",
+          "amount": 4099,
+          "description": "STARLINK- Sta. Theresa",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-171",
+          "date": "2026-08-31",
+          "month": "2026-08",
+          "category": "Internet/ISP",
+          "amount": 4099,
+          "description": "STARLINK- Kauswagan",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-172",
+          "date": "2026-08-31",
+          "month": "2026-08",
+          "category": "Internet/ISP",
+          "amount": 4099,
+          "description": "STARLINK-Kiawan",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-173",
+          "date": "2026-08-31",
+          "month": "2026-08",
+          "category": "Internet/ISP",
+          "amount": 2706,
+          "description": "PLDT BUNAWAN ISP 1",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-174",
+          "date": "2026-08-03",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 2640,
+          "description": "Piyesa",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-175",
+          "date": "2026-08-04",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 1000,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-176",
+          "date": "2026-08-05",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 510,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-177",
+          "date": "2026-08-06",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 492,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-178",
+          "date": "2026-08-06",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 510,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-179",
+          "date": "2026-08-07",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 150,
+          "description": "Pa-vulcanize",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-180",
+          "date": "2026-08-07",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 480,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-181",
+          "date": "2026-08-07",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 170,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-182",
+          "date": "2026-08-10",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 2850,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-183",
+          "date": "2026-08-10",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 3548,
+          "description": "Piyesa",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-184",
+          "date": "2026-08-11",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 170,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-185",
+          "date": "2026-08-12",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 500,
+          "description": "Labor- Tower",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-186",
+          "date": "2026-08-13",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 770,
+          "description": "Piyesa/Yannie",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-187",
+          "date": "2026-08-13",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 7520,
+          "description": "Piyesa/Yannie",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-188",
+          "date": "2026-08-13",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 307,
+          "description": "Piyesa/MDIY",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-189",
+          "date": "2026-08-13",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 246,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-190",
+          "date": "2026-08-16",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 500,
+          "description": "Nodemco",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-191",
+          "date": "2026-08-17",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 2500,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-192",
+          "date": "2026-08-18",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 1000,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-193",
+          "date": "2026-08-18",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 500,
+          "description": "Dawug-katkat",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-194",
+          "date": "2026-08-19",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 1300,
+          "description": "Hopper",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-195",
+          "date": "2026-08-19",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 462,
+          "description": "Gas ",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-196",
+          "date": "2026-08-19",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 480,
+          "description": "Gas ",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-197",
+          "date": "2026-08-31",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 237,
+          "description": "3 liters Gas ",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-198",
+          "date": "2026-08-31",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 170,
+          "description": "2 Liters gas Motor",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-199",
+          "date": "2026-08-31",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 170,
+          "description": "2 Liters gas Motor",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-200",
+          "date": "2026-08-31",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 525,
+          "description": "Gas Sakyanan",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-201",
+          "date": "2026-08-31",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 320,
+          "description": "Gas 4 L",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-202",
+          "date": "2026-08-31",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 600,
+          "description": "Dawog labor Saka",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-203",
+          "date": "2026-08-28",
+          "month": "2026-08",
+          "category": "Components/Piyesa",
+          "amount": 400,
+          "description": "Yannie Fiber Blue",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-204",
+          "date": "2026-08-31",
+          "month": "2026-08",
+          "category": "Manpower",
+          "amount": 7096,
+          "description": "KJ",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-205",
+          "date": "2026-08-31",
+          "month": "2026-08",
+          "category": "Manpower",
+          "amount": 671.5,
+          "description": "GEMSON",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-206",
+          "date": "2026-08-31",
+          "month": "2026-08",
+          "category": "Manpower",
+          "amount": 3066.5,
+          "description": "BINSOY",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-207",
+          "date": "2026-08-31",
+          "month": "2026-08",
+          "category": "Manpower",
+          "amount": 20162,
+          "description": "Cash Advance",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-208",
+          "date": "2026-08-31",
+          "month": "2026-08",
+          "category": "Misc",
+          "amount": 1500,
+          "description": "Bunawan Tower",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-209",
+          "date": "2026-08-31",
+          "month": "2026-08",
+          "category": "Misc",
+          "amount": 3690,
+          "description": "Repair sa Sakyanan",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-210",
+          "date": "2026-08-19",
+          "month": "2026-08",
+          "category": "Misc",
+          "amount": 742,
+          "description": "OBAG HURAM",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-211",
+          "date": "2026-08-19",
+          "month": "2026-08",
+          "category": "Misc",
+          "amount": 500,
+          "description": "Apale Commission for new personal",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-212",
+          "date": "2026-08-27",
+          "month": "2026-08",
+          "category": "Misc",
+          "amount": 2000,
+          "description": "Mondejar Tower ",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-213",
+          "date": "2026-08-31",
+          "month": "2026-08",
+          "category": "Car Loan",
+          "amount": 11078,
+          "description": "CARLOAN",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-214",
+          "date": "2026-09-30",
+          "month": "2026-09",
+          "category": "Internet/ISP",
+          "amount": 4099,
+          "description": "STARLINK- San Mariano",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-215",
+          "date": "2026-09-30",
+          "month": "2026-09",
+          "category": "Internet/ISP",
+          "amount": 4099,
+          "description": "STARLINK- Langasian",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-216",
+          "date": "2026-09-30",
+          "month": "2026-09",
+          "category": "Internet/ISP",
+          "amount": 4099,
+          "description": "STARLINK- Sta. Theresa",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-217",
+          "date": "2026-09-30",
+          "month": "2026-09",
+          "category": "Internet/ISP",
+          "amount": 4099,
+          "description": "STARLINK- Kauswagan",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-218",
+          "date": "2026-09-30",
+          "month": "2026-09",
+          "category": "Internet/ISP",
+          "amount": 4099,
+          "description": "STARLINK-Kiawan",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-219",
+          "date": "2026-09-30",
+          "month": "2026-09",
+          "category": "Internet/ISP",
+          "amount": 2706,
+          "description": "PLDT BUNAWAN ISP 1",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-220",
+          "date": "2026-09-30",
+          "month": "2026-09",
+          "category": "Components/Piyesa",
+          "amount": 4120,
+          "description": "Piyesa",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-221",
+          "date": "2026-09-30",
+          "month": "2026-09",
+          "category": "Components/Piyesa",
+          "amount": 500,
+          "description": "Dawog labor (nueva) CA",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-222",
+          "date": "2026-09-02",
+          "month": "2026-09",
+          "category": "Components/Piyesa",
+          "amount": 1000,
+          "description": "Gas (padulong) wala pa resibo",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-223",
+          "date": "2026-09-02",
+          "month": "2026-09",
+          "category": "Components/Piyesa",
+          "amount": 1500,
+          "description": "Piyesa banting  para sa Nueva",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-224",
+          "date": "2026-09-03",
+          "month": "2026-09",
+          "category": "Components/Piyesa",
+          "amount": 2230,
+          "description": "Mini Van (ligid and Yantas)",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-225",
+          "date": "2026-09-06",
+          "month": "2026-09",
+          "category": "Components/Piyesa",
+          "amount": 500,
+          "description": "Gas (padulong) wala pa resibo",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-226",
+          "date": "2026-09-06",
+          "month": "2026-09",
+          "category": "Components/Piyesa",
+          "amount": 1550,
+          "description": "Tire Wire",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-227",
+          "date": "2026-09-09",
+          "month": "2026-09",
+          "category": "Components/Piyesa",
+          "amount": 184,
+          "description": "cash in charge",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-228",
+          "date": "2026-09-09",
+          "month": "2026-09",
+          "category": "Components/Piyesa",
+          "amount": 1100,
+          "description": "Dawog labor",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-229",
+          "date": "2026-09-11",
+          "month": "2026-09",
+          "category": "Components/Piyesa",
+          "amount": 3010,
+          "description": "yannie",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-230",
+          "date": "2026-09-11",
+          "month": "2026-09",
+          "category": "Components/Piyesa",
+          "amount": 400,
+          "description": "yannie",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-231",
+          "date": "2026-09-18",
+          "month": "2026-09",
+          "category": "Components/Piyesa",
+          "amount": 2000,
+          "description": "Piyesa",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-232",
+          "date": "2026-09-22",
+          "month": "2026-09",
+          "category": "Components/Piyesa",
+          "amount": 500,
+          "description": "Gas padulong",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-233",
+          "date": "2026-09-22",
+          "month": "2026-09",
+          "category": "Components/Piyesa",
+          "amount": 1500,
+          "description": "Gas",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-234",
+          "date": "2026-09-30",
+          "month": "2026-09",
+          "category": "Manpower",
+          "amount": 7193,
+          "description": "KJ",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-235",
+          "date": "2026-09-30",
+          "month": "2026-09",
+          "category": "Manpower",
+          "amount": 1085,
+          "description": "GEMSON",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-236",
+          "date": "2026-09-30",
+          "month": "2026-09",
+          "category": "Manpower",
+          "amount": 355,
+          "description": "BINSOY",
+          "source": "Imported"
+        },
+        {
+          "id": "expense-237",
+          "date": "2026-09-30",
+          "month": "2026-09",
+          "category": "Manpower",
+          "amount": 11737,
+          "description": "Cash Advance",
+          "source": "Imported"
+        }
+      ],
+      "payroll": [
+        {
+          "id": "payroll-2",
+          "month": "2026-05",
+          "name": "KURT JAY",
+          "employment": "Current",
+          "days": 19,
+          "rate": 1100,
+          "gross": 20900,
+          "advance": 17867,
+          "net": 3033,
+          "status": "Paid"
+        },
+        {
+          "id": "payroll-3",
+          "month": "2026-05",
+          "name": "GEMSON",
+          "employment": "Current",
+          "days": 15,
+          "rate": 600,
+          "gross": 9000,
+          "advance": 9200,
+          "net": -200,
+          "status": "Paid"
+        },
+        {
+          "id": "payroll-4",
+          "month": "2026-05",
+          "name": "TOTO",
+          "employment": "Former",
+          "days": 6,
+          "rate": 600,
+          "gross": 3600,
+          "advance": 250,
+          "net": 3350,
+          "status": "Paid"
+        },
+        {
+          "id": "payroll-5",
+          "month": "2026-05",
+          "name": "REYSTER",
+          "employment": "Former",
+          "days": 9,
+          "rate": 600,
+          "gross": 5400,
+          "advance": 2300,
+          "net": 3100,
+          "status": "Paid"
+        },
+        {
+          "id": "payroll-6",
+          "month": "2026-06",
+          "name": "KURT JAY",
+          "employment": "Current",
+          "days": 24,
+          "rate": 1000,
+          "gross": 24000,
+          "advance": 14011,
+          "net": 9989,
+          "status": "Paid"
+        },
+        {
+          "id": "payroll-7",
+          "month": "2026-06",
+          "name": "GEMSON",
+          "employment": "Current",
+          "days": 9,
+          "rate": 500,
+          "gross": 4500,
+          "advance": 3400,
+          "net": 1100,
+          "status": "Paid"
+        },
+        {
+          "id": "payroll-8",
+          "month": "2026-06",
+          "name": "TOTO",
+          "employment": "Former",
+          "days": 18,
+          "rate": 500,
+          "gross": 9000,
+          "advance": 845,
+          "net": 8155,
+          "status": "Paid"
+        },
+        {
+          "id": "payroll-9",
+          "month": "2026-06",
+          "name": "REYSTER",
+          "employment": "Former",
+          "days": 9.5,
+          "rate": 500,
+          "gross": 4750,
+          "advance": 1200,
+          "net": 3550,
+          "status": "Paid"
+        },
+        {
+          "id": "payroll-10",
+          "month": "2026-07",
+          "name": "KURT JAY",
+          "employment": "Current",
+          "days": 19,
+          "rate": 800,
+          "gross": 15200,
+          "advance": 15020,
+          "net": 180,
+          "status": "Paid"
+        },
+        {
+          "id": "payroll-11",
+          "month": "2026-07",
+          "name": "GEMSON",
+          "employment": "Current",
+          "days": 18.5,
+          "rate": 481,
+          "gross": 8898.5,
+          "advance": 7750,
+          "net": 1148.5,
+          "status": "Paid"
+        },
+        {
+          "id": "payroll-12",
+          "month": "2026-07",
+          "name": "BINSOY",
+          "employment": "Former",
+          "days": 18.5,
+          "rate": 250,
+          "gross": 4625,
+          "advance": 2750,
+          "net": 1875,
+          "status": "Paid"
+        },
+        {
+          "id": "payroll-13",
+          "month": "2026-07",
+          "name": "TOTO",
+          "employment": "Former",
+          "days": 8,
+          "rate": 481,
+          "gross": 3848,
+          "advance": 500,
+          "net": 3348,
+          "status": "Paid"
+        },
+        {
+          "id": "payroll-14",
+          "month": "2026-07",
+          "name": "REYSTER",
+          "employment": "Former",
+          "days": 10,
+          "rate": 481,
+          "gross": 4810,
+          "advance": 800,
+          "net": 4010,
+          "status": "Paid"
+        },
+        {
+          "id": "payroll-15",
+          "month": "2026-08",
+          "name": "KURT JAY",
+          "employment": "Current",
+          "days": 20.5,
+          "rate": 800,
+          "gross": 16400,
+          "advance": 9304,
+          "net": 7096,
+          "status": "Paid"
+        },
+        {
+          "id": "payroll-16",
+          "month": "2026-08",
+          "name": "GEMSON",
+          "employment": "Current",
+          "days": 20.5,
+          "rate": 481,
+          "gross": 9860.5,
+          "advance": 9189,
+          "net": 671.5,
+          "status": "Paid"
+        },
+        {
+          "id": "payroll-17",
+          "month": "2026-08",
+          "name": "BINSOY",
+          "employment": "Former",
+          "days": 20.5,
+          "rate": 231,
+          "gross": 4735.5,
+          "advance": 1669,
+          "net": 3066.5,
+          "status": "Paid"
+        },
+        {
+          "id": "payroll-18",
+          "month": "2026-09",
+          "name": "KURT JAY",
+          "employment": "Current",
+          "days": 15,
+          "rate": 800,
+          "gross": 12000,
+          "advance": 4807,
+          "net": 7193,
+          "status": "Unpaid"
+        },
+        {
+          "id": "payroll-19",
+          "month": "2026-09",
+          "name": "GEMSON",
+          "employment": "Current",
+          "days": 15,
+          "rate": 481,
+          "gross": 7215,
+          "advance": 6130,
+          "net": 1085,
+          "status": "Unpaid"
+        },
+        {
+          "id": "payroll-20",
+          "month": "2026-09",
+          "name": "BINSOY",
+          "employment": "Former",
+          "days": 5,
+          "rate": 231,
+          "gross": 1155,
+          "advance": 800,
+          "net": 355,
+          "status": "Unpaid"
+        },
+        {
+          "id": "payroll-21",
+          "month": "2026-10",
+          "name": "KURT JAY",
+          "employment": "Current",
+          "days": 8,
+          "rate": 800,
+          "gross": 6400,
+          "advance": 400,
+          "net": 6000,
+          "status": "Unpaid"
+        }
+      ],
+      "attendance": [
+        {
+          "employeeId": "employee-kurt-jay",
+          "month": "2026-05",
+          "dailyRate": 1100,
+          "cashAdvance": 17867,
+          "days": [
+            {
+              "date": "2026-05-04",
+              "units": 1
+            },
+            {
+              "date": "2026-05-05",
+              "units": 1
+            },
+            {
+              "date": "2026-05-06",
+              "units": 1
+            },
+            {
+              "date": "2026-05-07",
+              "units": 1
+            },
+            {
+              "date": "2026-05-08",
+              "units": 1
+            },
+            {
+              "date": "2026-05-09",
+              "units": 1
+            },
+            {
+              "date": "2026-05-13",
+              "units": 1
+            },
+            {
+              "date": "2026-05-14",
+              "units": 1
+            },
+            {
+              "date": "2026-05-15",
+              "units": 1
+            },
+            {
+              "date": "2026-05-16",
+              "units": 1
+            },
+            {
+              "date": "2026-05-17",
+              "units": 1
+            },
+            {
+              "date": "2026-05-18",
+              "units": 1
+            },
+            {
+              "date": "2026-05-19",
+              "units": 1
+            },
+            {
+              "date": "2026-05-20",
+              "units": 1
+            },
+            {
+              "date": "2026-05-21",
+              "units": 1
+            },
+            {
+              "date": "2026-05-25",
+              "units": 1
+            },
+            {
+              "date": "2026-05-26",
+              "units": 1
+            },
+            {
+              "date": "2026-05-27",
+              "units": 1
+            },
+            {
+              "date": "2026-05-28",
+              "units": 1
+            }
+          ],
+          "source": "Imported"
+        },
+        {
+          "employeeId": "employee-gemson",
+          "month": "2026-05",
+          "dailyRate": 600,
+          "cashAdvance": 9200,
+          "days": [
+            {
+              "date": "2026-05-04",
+              "units": 1
+            },
+            {
+              "date": "2026-05-07",
+              "units": 1
+            },
+            {
+              "date": "2026-05-08",
+              "units": 1
+            },
+            {
+              "date": "2026-05-09",
+              "units": 1
+            },
+            {
+              "date": "2026-05-15",
+              "units": 1
+            },
+            {
+              "date": "2026-05-16",
+              "units": 1
+            },
+            {
+              "date": "2026-05-17",
+              "units": 1
+            },
+            {
+              "date": "2026-05-18",
+              "units": 1
+            },
+            {
+              "date": "2026-05-19",
+              "units": 1
+            },
+            {
+              "date": "2026-05-20",
+              "units": 1
+            },
+            {
+              "date": "2026-05-21",
+              "units": 1
+            },
+            {
+              "date": "2026-05-25",
+              "units": 1
+            },
+            {
+              "date": "2026-05-26",
+              "units": 1
+            },
+            {
+              "date": "2026-05-27",
+              "units": 1
+            },
+            {
+              "date": "2026-05-28",
+              "units": 1
+            }
+          ],
+          "source": "Imported"
+        },
+        {
+          "employeeId": "employee-toto",
+          "month": "2026-05",
+          "dailyRate": 600,
+          "cashAdvance": 250,
+          "days": [
+            {
+              "date": "2026-05-04",
+              "units": 1
+            },
+            {
+              "date": "2026-05-05",
+              "units": 1
+            },
+            {
+              "date": "2026-05-06",
+              "units": 1
+            },
+            {
+              "date": "2026-05-07",
+              "units": 1
+            },
+            {
+              "date": "2026-05-08",
+              "units": 1
+            },
+            {
+              "date": "2026-05-09",
+              "units": 1
+            }
+          ],
+          "source": "Imported"
+        },
+        {
+          "employeeId": "employee-reyster",
+          "month": "2026-05",
+          "dailyRate": 600,
+          "cashAdvance": 2300,
+          "days": [
+            {
+              "date": "2026-05-13",
+              "units": 1
+            },
+            {
+              "date": "2026-05-14",
+              "units": 1
+            },
+            {
+              "date": "2026-05-15",
+              "units": 1
+            },
+            {
+              "date": "2026-05-16",
+              "units": 1
+            },
+            {
+              "date": "2026-05-17",
+              "units": 1
+            },
+            {
+              "date": "2026-05-18",
+              "units": 1
+            },
+            {
+              "date": "2026-05-19",
+              "units": 1
+            },
+            {
+              "date": "2026-05-20",
+              "units": 1
+            },
+            {
+              "date": "2026-05-21",
+              "units": 1
+            }
+          ],
+          "source": "Imported"
+        },
+        {
+          "employeeId": "employee-kurt-jay",
+          "month": "2026-06",
+          "dailyRate": 1000,
+          "cashAdvance": 14011,
+          "days": [
+            {
+              "date": "2026-06-01",
+              "units": 1
+            },
+            {
+              "date": "2026-06-02",
+              "units": 1
+            },
+            {
+              "date": "2026-06-03",
+              "units": 1
+            },
+            {
+              "date": "2026-06-04",
+              "units": 1
+            },
+            {
+              "date": "2026-06-05",
+              "units": 1
+            },
+            {
+              "date": "2026-06-06",
+              "units": 1
+            },
+            {
+              "date": "2026-06-08",
+              "units": 1
+            },
+            {
+              "date": "2026-06-09",
+              "units": 1
+            },
+            {
+              "date": "2026-06-10",
+              "units": 1
+            },
+            {
+              "date": "2026-06-11",
+              "units": 1
+            },
+            {
+              "date": "2026-06-12",
+              "units": 1
+            },
+            {
+              "date": "2026-06-13",
+              "units": 1
+            },
+            {
+              "date": "2026-06-15",
+              "units": 0.5
+            },
+            {
+              "date": "2026-06-16",
+              "units": 1
+            },
+            {
+              "date": "2026-06-17",
+              "units": 1
+            },
+            {
+              "date": "2026-06-18",
+              "units": 1
+            },
+            {
+              "date": "2026-06-19",
+              "units": 1
+            },
+            {
+              "date": "2026-06-20",
+              "units": 0.5
+            },
+            {
+              "date": "2026-06-22",
+              "units": 1
+            },
+            {
+              "date": "2026-06-23",
+              "units": 0.5
+            },
+            {
+              "date": "2026-06-24",
+              "units": 1
+            },
+            {
+              "date": "2026-06-25",
+              "units": 1
+            },
+            {
+              "date": "2026-06-26",
+              "units": 1
+            },
+            {
+              "date": "2026-06-27",
+              "units": 0.5
+            },
+            {
+              "date": "2026-06-29",
+              "units": 1
+            },
+            {
+              "date": "2026-06-30",
+              "units": 1
+            }
+          ],
+          "source": "Imported"
+        },
+        {
+          "employeeId": "employee-gemson",
+          "month": "2026-06",
+          "dailyRate": 500,
+          "cashAdvance": 3400,
+          "days": [
+            {
+              "date": "2026-06-01",
+              "units": 1
+            },
+            {
+              "date": "2026-06-02",
+              "units": 1
+            },
+            {
+              "date": "2026-06-03",
+              "units": 1
+            },
+            {
+              "date": "2026-06-04",
+              "units": 1
+            },
+            {
+              "date": "2026-06-05",
+              "units": 1
+            },
+            {
+              "date": "2026-06-10",
+              "units": 1
+            },
+            {
+              "date": "2026-06-11",
+              "units": 1
+            },
+            {
+              "date": "2026-06-12",
+              "units": 1
+            },
+            {
+              "date": "2026-06-13",
+              "units": 1
+            }
+          ],
+          "source": "Imported"
+        },
+        {
+          "employeeId": "employee-toto",
+          "month": "2026-06",
+          "dailyRate": 500,
+          "cashAdvance": 845,
+          "days": [
+            {
+              "date": "2026-06-08",
+              "units": 1
+            },
+            {
+              "date": "2026-06-09",
+              "units": 1
+            },
+            {
+              "date": "2026-06-10",
+              "units": 1
+            },
+            {
+              "date": "2026-06-11",
+              "units": 1
+            },
+            {
+              "date": "2026-06-12",
+              "units": 1
+            },
+            {
+              "date": "2026-06-13",
+              "units": 1
+            },
+            {
+              "date": "2026-06-15",
+              "units": 0.5
+            },
+            {
+              "date": "2026-06-16",
+              "units": 1
+            },
+            {
+              "date": "2026-06-17",
+              "units": 1
+            },
+            {
+              "date": "2026-06-18",
+              "units": 1
+            },
+            {
+              "date": "2026-06-19",
+              "units": 1
+            },
+            {
+              "date": "2026-06-20",
+              "units": 0.5
+            },
+            {
+              "date": "2026-06-22",
+              "units": 1
+            },
+            {
+              "date": "2026-06-23",
+              "units": 0.5
+            },
+            {
+              "date": "2026-06-24",
+              "units": 1
+            },
+            {
+              "date": "2026-06-25",
+              "units": 1
+            },
+            {
+              "date": "2026-06-26",
+              "units": 1
+            },
+            {
+              "date": "2026-06-27",
+              "units": 0.5
+            },
+            {
+              "date": "2026-06-29",
+              "units": 1
+            },
+            {
+              "date": "2026-06-30",
+              "units": 1
+            }
+          ],
+          "source": "Imported"
+        },
+        {
+          "employeeId": "employee-reyster",
+          "month": "2026-06",
+          "dailyRate": 500,
+          "cashAdvance": 1200,
+          "days": [
+            {
+              "date": "2026-06-08",
+              "units": 1
+            },
+            {
+              "date": "2026-06-09",
+              "units": 1
+            },
+            {
+              "date": "2026-06-10",
+              "units": 1
+            },
+            {
+              "date": "2026-06-11",
+              "units": 1
+            },
+            {
+              "date": "2026-06-12",
+              "units": 1
+            },
+            {
+              "date": "2026-06-13",
+              "units": 1
+            },
+            {
+              "date": "2026-06-15",
+              "units": 0.5
+            },
+            {
+              "date": "2026-06-22",
+              "units": 1
+            },
+            {
+              "date": "2026-06-29",
+              "units": 1
+            },
+            {
+              "date": "2026-06-30",
+              "units": 1
+            }
+          ],
+          "source": "Imported"
+        },
+        {
+          "employeeId": "employee-kurt-jay",
+          "month": "2026-07",
+          "dailyRate": 800,
+          "cashAdvance": 15020,
+          "days": [
+            {
+              "date": "2026-07-01",
+              "units": 1
+            },
+            {
+              "date": "2026-07-02",
+              "units": 1
+            },
+            {
+              "date": "2026-07-03",
+              "units": 1
+            },
+            {
+              "date": "2026-07-06",
+              "units": 1
+            },
+            {
+              "date": "2026-07-07",
+              "units": 1
+            },
+            {
+              "date": "2026-07-08",
+              "units": 1
+            },
+            {
+              "date": "2026-07-09",
+              "units": 1
+            },
+            {
+              "date": "2026-07-10",
+              "units": 1
+            },
+            {
+              "date": "2026-07-14",
+              "units": 0.5
+            },
+            {
+              "date": "2026-07-16",
+              "units": 1
+            },
+            {
+              "date": "2026-07-17",
+              "units": 1
+            },
+            {
+              "date": "2026-07-18",
+              "units": 1
+            },
+            {
+              "date": "2026-07-20",
+              "units": 1
+            },
+            {
+              "date": "2026-07-21",
+              "units": 1
+            },
+            {
+              "date": "2026-07-22",
+              "units": 1
+            },
+            {
+              "date": "2026-07-27",
+              "units": 0.5
+            },
+            {
+              "date": "2026-07-28",
+              "units": 1
+            },
+            {
+              "date": "2026-07-29",
+              "units": 1
+            },
+            {
+              "date": "2026-07-30",
+              "units": 1
+            },
+            {
+              "date": "2026-07-31",
+              "units": 1
+            }
+          ],
+          "source": "Imported"
+        },
+        {
+          "employeeId": "employee-gemson",
+          "month": "2026-07",
+          "dailyRate": 481,
+          "cashAdvance": 7750,
+          "days": [
+            {
+              "date": "2026-07-06",
+              "units": 1
+            },
+            {
+              "date": "2026-07-07",
+              "units": 1
+            },
+            {
+              "date": "2026-07-08",
+              "units": 1
+            },
+            {
+              "date": "2026-07-09",
+              "units": 1
+            },
+            {
+              "date": "2026-07-10",
+              "units": 1
+            },
+            {
+              "date": "2026-07-13",
+              "units": 1
+            },
+            {
+              "date": "2026-07-14",
+              "units": 1
+            },
+            {
+              "date": "2026-07-16",
+              "units": 1
+            },
+            {
+              "date": "2026-07-17",
+              "units": 1
+            },
+            {
+              "date": "2026-07-18",
+              "units": 1
+            },
+            {
+              "date": "2026-07-20",
+              "units": 1
+            },
+            {
+              "date": "2026-07-21",
+              "units": 1
+            },
+            {
+              "date": "2026-07-22",
+              "units": 1
+            },
+            {
+              "date": "2026-07-23",
+              "units": 1
+            },
+            {
+              "date": "2026-07-25",
+              "units": 0.5
+            },
+            {
+              "date": "2026-07-28",
+              "units": 1
+            },
+            {
+              "date": "2026-07-29",
+              "units": 1
+            },
+            {
+              "date": "2026-07-30",
+              "units": 1
+            },
+            {
+              "date": "2026-07-31",
+              "units": 1
+            }
+          ],
+          "source": "Imported"
+        },
+        {
+          "employeeId": "employee-binsoy",
+          "month": "2026-07",
+          "dailyRate": 250,
+          "cashAdvance": 2750,
+          "days": [
+            {
+              "date": "2026-07-06",
+              "units": 1
+            },
+            {
+              "date": "2026-07-07",
+              "units": 1
+            },
+            {
+              "date": "2026-07-08",
+              "units": 1
+            },
+            {
+              "date": "2026-07-09",
+              "units": 1
+            },
+            {
+              "date": "2026-07-10",
+              "units": 1
+            },
+            {
+              "date": "2026-07-13",
+              "units": 1
+            },
+            {
+              "date": "2026-07-14",
+              "units": 1
+            },
+            {
+              "date": "2026-07-16",
+              "units": 1
+            },
+            {
+              "date": "2026-07-17",
+              "units": 1
+            },
+            {
+              "date": "2026-07-18",
+              "units": 1
+            },
+            {
+              "date": "2026-07-20",
+              "units": 1
+            },
+            {
+              "date": "2026-07-21",
+              "units": 1
+            },
+            {
+              "date": "2026-07-22",
+              "units": 1
+            },
+            {
+              "date": "2026-07-23",
+              "units": 1
+            },
+            {
+              "date": "2026-07-25",
+              "units": 0.5
+            },
+            {
+              "date": "2026-07-28",
+              "units": 1
+            },
+            {
+              "date": "2026-07-29",
+              "units": 1
+            },
+            {
+              "date": "2026-07-30",
+              "units": 1
+            },
+            {
+              "date": "2026-07-31",
+              "units": 1
+            }
+          ],
+          "source": "Imported"
+        },
+        {
+          "employeeId": "employee-toto",
+          "month": "2026-07",
+          "dailyRate": 481,
+          "cashAdvance": 500,
+          "days": [
+            {
+              "date": "2026-07-01",
+              "units": 1
+            },
+            {
+              "date": "2026-07-02",
+              "units": 1
+            },
+            {
+              "date": "2026-07-03",
+              "units": 1
+            },
+            {
+              "date": "2026-07-06",
+              "units": 1
+            },
+            {
+              "date": "2026-07-07",
+              "units": 1
+            },
+            {
+              "date": "2026-07-08",
+              "units": 1
+            },
+            {
+              "date": "2026-07-09",
+              "units": 1
+            },
+            {
+              "date": "2026-07-10",
+              "units": 1
+            }
+          ],
+          "source": "Imported"
+        },
+        {
+          "employeeId": "employee-reyster",
+          "month": "2026-07",
+          "dailyRate": 481,
+          "cashAdvance": 800,
+          "days": [
+            {
+              "date": "2026-07-01",
+              "units": 1
+            },
+            {
+              "date": "2026-07-02",
+              "units": 1
+            },
+            {
+              "date": "2026-07-03",
+              "units": 1
+            },
+            {
+              "date": "2026-07-06",
+              "units": 1
+            },
+            {
+              "date": "2026-07-07",
+              "units": 1
+            },
+            {
+              "date": "2026-07-08",
+              "units": 1
+            },
+            {
+              "date": "2026-07-09",
+              "units": 1
+            },
+            {
+              "date": "2026-07-10",
+              "units": 1
+            },
+            {
+              "date": "2026-07-13",
+              "units": 1
+            },
+            {
+              "date": "2026-07-14",
+              "units": 1
+            }
+          ],
+          "source": "Imported"
+        },
+        {
+          "employeeId": "employee-kurt-jay",
+          "month": "2026-08",
+          "dailyRate": 800,
+          "cashAdvance": 9304,
+          "days": [
+            {
+              "date": "2026-08-04",
+              "units": 1
+            },
+            {
+              "date": "2026-08-05",
+              "units": 1
+            },
+            {
+              "date": "2026-08-06",
+              "units": 1
+            },
+            {
+              "date": "2026-08-07",
+              "units": 1
+            },
+            {
+              "date": "2026-08-10",
+              "units": 1
+            },
+            {
+              "date": "2026-08-11",
+              "units": 1
+            },
+            {
+              "date": "2026-08-12",
+              "units": 1
+            },
+            {
+              "date": "2026-08-13",
+              "units": 1
+            },
+            {
+              "date": "2026-08-17",
+              "units": 0.5
+            },
+            {
+              "date": "2026-08-18",
+              "units": 1
+            },
+            {
+              "date": "2026-08-19",
+              "units": 1
+            },
+            {
+              "date": "2026-08-20",
+              "units": 1
+            },
+            {
+              "date": "2026-08-21",
+              "units": 1
+            },
+            {
+              "date": "2026-08-22",
+              "units": 1
+            },
+            {
+              "date": "2026-08-25",
+              "units": 1
+            },
+            {
+              "date": "2026-08-26",
+              "units": 1
+            },
+            {
+              "date": "2026-08-27",
+              "units": 1
+            },
+            {
+              "date": "2026-08-28",
+              "units": 1
+            },
+            {
+              "date": "2026-08-29",
+              "units": 1
+            },
+            {
+              "date": "2026-08-30",
+              "units": 1
+            },
+            {
+              "date": "2026-08-31",
+              "units": 1
+            }
+          ],
+          "source": "Imported"
+        },
+        {
+          "employeeId": "employee-gemson",
+          "month": "2026-08",
+          "dailyRate": 481,
+          "cashAdvance": 9189,
+          "days": [
+            {
+              "date": "2026-08-04",
+              "units": 1
+            },
+            {
+              "date": "2026-08-05",
+              "units": 1
+            },
+            {
+              "date": "2026-08-06",
+              "units": 1
+            },
+            {
+              "date": "2026-08-07",
+              "units": 1
+            },
+            {
+              "date": "2026-08-10",
+              "units": 1
+            },
+            {
+              "date": "2026-08-11",
+              "units": 1
+            },
+            {
+              "date": "2026-08-12",
+              "units": 1
+            },
+            {
+              "date": "2026-08-13",
+              "units": 1
+            },
+            {
+              "date": "2026-08-17",
+              "units": 0.5
+            },
+            {
+              "date": "2026-08-18",
+              "units": 1
+            },
+            {
+              "date": "2026-08-19",
+              "units": 1
+            },
+            {
+              "date": "2026-08-20",
+              "units": 1
+            },
+            {
+              "date": "2026-08-21",
+              "units": 1
+            },
+            {
+              "date": "2026-08-22",
+              "units": 1
+            },
+            {
+              "date": "2026-08-25",
+              "units": 1
+            },
+            {
+              "date": "2026-08-26",
+              "units": 1
+            },
+            {
+              "date": "2026-08-27",
+              "units": 1
+            },
+            {
+              "date": "2026-08-28",
+              "units": 1
+            },
+            {
+              "date": "2026-08-29",
+              "units": 1
+            },
+            {
+              "date": "2026-08-30",
+              "units": 1
+            },
+            {
+              "date": "2026-08-31",
+              "units": 1
+            }
+          ],
+          "source": "Imported"
+        },
+        {
+          "employeeId": "employee-binsoy",
+          "month": "2026-08",
+          "dailyRate": 231,
+          "cashAdvance": 1669,
+          "days": [
+            {
+              "date": "2026-08-04",
+              "units": 1
+            },
+            {
+              "date": "2026-08-05",
+              "units": 1
+            },
+            {
+              "date": "2026-08-06",
+              "units": 1
+            },
+            {
+              "date": "2026-08-07",
+              "units": 1
+            },
+            {
+              "date": "2026-08-10",
+              "units": 1
+            },
+            {
+              "date": "2026-08-11",
+              "units": 1
+            },
+            {
+              "date": "2026-08-12",
+              "units": 1
+            },
+            {
+              "date": "2026-08-13",
+              "units": 1
+            },
+            {
+              "date": "2026-08-17",
+              "units": 0.5
+            },
+            {
+              "date": "2026-08-18",
+              "units": 1
+            },
+            {
+              "date": "2026-08-19",
+              "units": 1
+            },
+            {
+              "date": "2026-08-20",
+              "units": 1
+            },
+            {
+              "date": "2026-08-21",
+              "units": 1
+            },
+            {
+              "date": "2026-08-22",
+              "units": 1
+            },
+            {
+              "date": "2026-08-25",
+              "units": 1
+            },
+            {
+              "date": "2026-08-26",
+              "units": 1
+            },
+            {
+              "date": "2026-08-27",
+              "units": 1
+            },
+            {
+              "date": "2026-08-28",
+              "units": 1
+            },
+            {
+              "date": "2026-08-29",
+              "units": 1
+            },
+            {
+              "date": "2026-08-30",
+              "units": 1
+            },
+            {
+              "date": "2026-08-31",
+              "units": 1
+            }
+          ],
+          "source": "Imported"
+        },
+        {
+          "employeeId": "employee-kurt-jay",
+          "month": "2026-09",
+          "dailyRate": 800,
+          "cashAdvance": 4807,
+          "days": [
+            {
+              "date": "2026-09-04",
+              "units": 1
+            },
+            {
+              "date": "2026-09-05",
+              "units": 1
+            },
+            {
+              "date": "2026-09-06",
+              "units": 1
+            },
+            {
+              "date": "2026-09-07",
+              "units": 1
+            },
+            {
+              "date": "2026-09-08",
+              "units": 1
+            },
+            {
+              "date": "2026-09-14",
+              "units": 1
+            },
+            {
+              "date": "2026-09-15",
+              "units": 1
+            },
+            {
+              "date": "2026-09-16",
+              "units": 1
+            },
+            {
+              "date": "2026-09-17",
+              "units": 1
+            },
+            {
+              "date": "2026-09-23",
+              "units": 1
+            },
+            {
+              "date": "2026-09-24",
+              "units": 1
+            },
+            {
+              "date": "2026-09-25",
+              "units": 1
+            },
+            {
+              "date": "2026-09-26",
+              "units": 1
+            },
+            {
+              "date": "2026-09-27",
+              "units": 1
+            },
+            {
+              "date": "2026-09-30",
+              "units": 1
+            }
+          ],
+          "source": "Imported"
+        },
+        {
+          "employeeId": "employee-gemson",
+          "month": "2026-09",
+          "dailyRate": 481,
+          "cashAdvance": 6130,
+          "days": [
+            {
+              "date": "2026-09-04",
+              "units": 1
+            },
+            {
+              "date": "2026-09-05",
+              "units": 1
+            },
+            {
+              "date": "2026-09-06",
+              "units": 1
+            },
+            {
+              "date": "2026-09-07",
+              "units": 1
+            },
+            {
+              "date": "2026-09-08",
+              "units": 1
+            },
+            {
+              "date": "2026-09-14",
+              "units": 1
+            },
+            {
+              "date": "2026-09-15",
+              "units": 1
+            },
+            {
+              "date": "2026-09-16",
+              "units": 1
+            },
+            {
+              "date": "2026-09-17",
+              "units": 1
+            },
+            {
+              "date": "2026-09-23",
+              "units": 1
+            },
+            {
+              "date": "2026-09-24",
+              "units": 1
+            },
+            {
+              "date": "2026-09-25",
+              "units": 1
+            },
+            {
+              "date": "2026-09-26",
+              "units": 1
+            },
+            {
+              "date": "2026-09-27",
+              "units": 1
+            },
+            {
+              "date": "2026-09-30",
+              "units": 1
+            }
+          ],
+          "source": "Imported"
+        },
+        {
+          "employeeId": "employee-binsoy",
+          "month": "2026-09",
+          "dailyRate": 231,
+          "cashAdvance": 800,
+          "days": [
+            {
+              "date": "2026-09-04",
+              "units": 1
+            },
+            {
+              "date": "2026-09-05",
+              "units": 1
+            },
+            {
+              "date": "2026-09-06",
+              "units": 1
+            },
+            {
+              "date": "2026-09-07",
+              "units": 1
+            },
+            {
+              "date": "2026-09-08",
+              "units": 1
+            }
+          ],
+          "source": "Imported"
+        },
+        {
+          "employeeId": "employee-kurt-jay",
+          "month": "2026-10",
+          "dailyRate": 800,
+          "cashAdvance": 400,
+          "days": [
+            {
+              "date": "2026-10-01",
+              "units": 1
+            },
+            {
+              "date": "2026-10-10",
+              "units": 1
+            },
+            {
+              "date": "2026-10-11",
+              "units": 1
+            },
+            {
+              "date": "2026-10-12",
+              "units": 1
+            },
+            {
+              "date": "2026-10-13",
+              "units": 1
+            },
+            {
+              "date": "2026-10-14",
+              "units": 1
+            },
+            {
+              "date": "2026-10-15",
+              "units": 1
+            },
+            {
+              "date": "2026-10-16",
+              "units": 1
+            }
+          ],
+          "source": "Imported"
+        }
+      ],
+      "assets": [
+        {
+          "id": "asset-6",
+          "name": "Vivian Casal",
+          "area": "Manawe",
+          "status": "Unspecified",
+          "lastRecorded": "2026-07-02"
+        },
+        {
+          "id": "asset-7",
+          "name": "Rubelyn Absalon",
+          "area": "Nueva Gracia",
+          "status": "Unspecified",
+          "lastRecorded": "2026-07-02"
+        },
+        {
+          "id": "asset-8",
+          "name": "Josifa Bantuasan",
+          "area": "Sto. Tomas",
+          "status": "Pulled out",
+          "lastRecorded": "2026-07-02"
+        },
+        {
+          "id": "asset-9",
+          "name": "Castro",
+          "area": "Bataan",
+          "status": "Unspecified",
+          "lastRecorded": null
+        },
+        {
+          "id": "asset-10",
+          "name": "Maribel Calderon",
+          "area": "Halapitan",
+          "status": "Unspecified",
+          "lastRecorded": null
+        },
+        {
+          "id": "asset-11",
+          "name": "Rodolfo Duranggo",
+          "area": "Magbuya",
+          "status": "Unspecified",
+          "lastRecorded": null
+        },
+        {
+          "id": "asset-12",
+          "name": "Juliet Julipa",
+          "area": "Maitom",
+          "status": "Unspecified",
+          "lastRecorded": "2026-07-22"
+        },
+        {
+          "id": "asset-13",
+          "name": "Joseph Tomas",
+          "area": "Osmena",
+          "status": "Unspecified",
+          "lastRecorded": null
+        },
+        {
+          "id": "asset-14",
+          "name": "Havana/ Mondejar",
+          "area": "San Patricio, La Paz",
+          "status": "Unspecified",
+          "lastRecorded": null
+        },
+        {
+          "id": "asset-15",
+          "name": "Anselmo Bada",
+          "area": "Pinamuyanan",
+          "status": "Unspecified",
+          "lastRecorded": null
+        },
+        {
+          "id": "asset-16",
+          "name": "Carmona",
+          "area": "Waloe",
+          "status": "Unspecified",
+          "lastRecorded": "2026-01-01"
+        },
+        {
+          "id": "asset-17",
+          "name": "Luciano Facundo",
+          "area": "Magaud",
+          "status": "Unspecified",
+          "lastRecorded": null
+        },
+        {
+          "id": "asset-18",
+          "name": "Nancy Delgado",
+          "area": "Bunawan",
+          "status": "Unspecified",
+          "lastRecorded": "2026-08-04"
+        },
+        {
+          "id": "asset-19",
+          "name": "Garcia",
+          "area": "Johnson",
+          "status": "Unspecified",
+          "lastRecorded": null
+        },
+        {
+          "id": "asset-20",
+          "name": "Manginsay",
+          "area": "Kauswagan",
+          "status": "Needs attention",
+          "lastRecorded": null
+        },
+        {
+          "id": "asset-21",
+          "name": "Torres",
+          "area": "Valentina",
+          "status": "Unspecified",
+          "lastRecorded": "2026-07-22"
+        }
+      ],
+      "subscribers": [
+        {
+          "id": "subscriber-3",
+          "name": "Joseph Pabellan",
+          "area": "San Mariano",
+          "due": "Every 22",
+          "payments": {
+            "2026-06": 850,
+            "2026-07": 850,
+            "2026-08": 850,
+            "2026-10": 0
+          }
+        },
+        {
+          "id": "subscriber-4",
+          "name": "Evelyn Atabelo",
+          "area": "San Mariano",
+          "due": "Every 5",
+          "payments": {
+            "2026-06": 850,
+            "2026-07": 850,
+            "2026-08": 850,
+            "2026-10": 0
+          }
+        },
+        {
+          "id": "subscriber-5",
+          "name": "Evelyn Dabon",
+          "area": "San Mariano",
+          "due": "Not specified",
+          "payments": {
+            "2026-06": 850,
+            "2026-07": 850,
+            "2026-08": 0,
+            "2026-10": 0
+          }
+        },
+        {
+          "id": "subscriber-6",
+          "name": "Theresa Paña",
+          "area": "Not specified",
+          "due": "Every 27",
+          "payments": {
+            "2026-06": 0,
+            "2026-07": 1000,
+            "2026-08": 0,
+            "2026-10": 0
+          }
+        },
+        {
+          "id": "subscriber-7",
+          "name": "Roxax",
+          "area": "Not specified",
+          "due": "Not specified",
+          "payments": {
+            "2026-06": 0,
+            "2026-07": 0,
+            "2026-08": 850,
+            "2026-10": 850
+          }
+        },
+        {
+          "id": "subscriber-8",
+          "name": "Paller",
+          "area": "Not specified",
+          "due": "Not specified",
+          "payments": {
+            "2026-06": 0,
+            "2026-07": 0,
+            "2026-08": 0,
+            "2026-10": 0
+          }
+        },
+        {
+          "id": "subscriber-9",
+          "name": "Gemina",
+          "area": "Not specified",
+          "due": "Not specified",
+          "payments": {
+            "2026-06": 0,
+            "2026-07": 2000,
+            "2026-08": 0,
+            "2026-10": 0
+          }
+        },
+        {
+          "id": "subscriber-10",
+          "name": "Elboy Torres",
+          "area": "Not specified",
+          "due": "2026-09-16",
+          "payments": {
+            "2026-06": 2900,
+            "2026-07": 0,
+            "2026-08": 2900,
+            "2026-10": 0
+          }
+        }
+      ],
+      "payables": [
+        {
+          "id": "payable-6",
+          "provider": "STARLINK",
+          "area": "Sta. Theresa",
+          "amount": 3800,
+          "due": "Every 28"
+        },
+        {
+          "id": "payable-7",
+          "provider": "STARLINK",
+          "area": "Kauswagan",
+          "amount": 3800,
+          "due": "Every 28"
+        },
+        {
+          "id": "payable-8",
+          "provider": "STARLINK",
+          "area": "Langasian",
+          "amount": 3800,
+          "due": "Every 20"
+        },
+        {
+          "id": "payable-9",
+          "provider": "STARLINK",
+          "area": "San Mariano",
+          "amount": 3800,
+          "due": "Every 20"
+        },
+        {
+          "id": "payable-10",
+          "provider": "STARLINK",
+          "area": "Kiawan",
+          "amount": 3800,
+          "due": "Every 1"
+        },
+        {
+          "id": "payable-11",
+          "provider": "PLDT",
+          "area": "Main- Bunawan",
+          "amount": 11000,
+          "due": "Every 20"
+        },
+        {
+          "id": "payable-12",
+          "provider": "PLDT",
+          "area": "Main- Cabadiangan",
+          "amount": 2099,
+          "due": "Every 24"
+        },
+        {
+          "id": "payable-13",
+          "provider": "GIGA FIBER CORP.",
+          "area": "Main- Cabadiangan",
+          "amount": 1299,
+          "due": "Every 23"
+        }
+      ],
+      "equity": [
+        {
+          "name": "Kenneth M. Albaran",
+          "amount": 370000,
+          "share": 67.27272727
+        },
+        {
+          "name": "Khen John P. Albaran",
+          "amount": 150000,
+          "share": 27.27272727
+        },
+        {
+          "name": "Gemson P. Liboon",
+          "amount": 30000,
+          "share": 5.45454545
+        }
+      ],
+      "notes": [
+        {
+          "month": "2026-06",
+          "title": "Historical collection adjustment",
+          "detail": "The original summary omits part of the agent subtotal. Monthly receipts retain the workbook’s reconciled amount. The detail-to-summary adjustment is -₱787.55."
+        },
+        {
+          "month": "2026-07",
+          "title": "Historical sharing exception",
+          "detail": "Some original sharing percentages exceed 100%. The workbook preserves a ₱285.775 summary adjustment rather than rewriting the source records."
+        },
+        {
+          "month": "2026-05",
+          "title": "Payroll booking difference",
+          "detail": "The source expenses book Reyster’s net pay as ₱2,300; his payroll shows ₱3,100, a difference of ₱800. Imported totals are preserved."
+        },
+        {
+          "month": "2026-07",
+          "title": "Payroll classification difference",
+          "detail": "The source includes ₱4,075 in Binsoy wages under Components. His payroll shows ₱4,625 gross. Imported expense categories are preserved."
+        },
+        {
+          "month": "2026-08",
+          "title": "Operating month basis",
+          "detail": "Collections are grouped by operating month. The actual collection date can fall in a later month. August source cash flow also mentions ₱52,650 in additional receipts that are not included in the reconciled monthly statement."
+        },
+        {
+          "month": "2026-10",
+          "title": "Partial records",
+          "detail": "October contains limited activity. The statement includes ₱400 of payroll advances not booked in the expense detail; gross payroll is not added to cash expenses again."
+        }
+      ]
+    },
+    "changes": {
+      "harvest": [
+        {
+          "id": "5302b256-9e47-4e43-911d-850a9b6a9662",
+          "date": "2026-10-23",
+          "month": "2026-10",
+          "area": "Magatos",
+          "name": "Kenneth Mirasol Albaran",
+          "gross": 10000,
+          "internet": 3000,
+          "electricity": 200,
+          "net": 6800,
+          "consignee": 1560,
+          "owner": 8100,
+          "agent": 340,
+          "source": "Workspace"
+        }
+      ],
+      "expenses": [],
+      "receipts": [],
+      "assets": [],
+      "assetStatuses": {},
+      "payrollStatuses": {},
+      "employees": [],
+      "attendance": [],
+      "trash": [
+        {
+          "id": "0c9d39d2-ad98-4b5c-84e1-ed2d90d3ee7d",
+          "label": "Kenneth Mirasol Albaran · 2026-10",
+          "deletedAt": "2026-10-23T10:50:13.356Z",
+          "items": [
+            {
+              "kind": "harvest",
+              "id": "5302b256-9e47-4e43-911d-850a9b6a9662",
+              "label": "Kenneth Mirasol Albaran · 2026-10"
+            }
+          ],
+          "clearBaseline": false
+        }
+      ],
+      "reminders": [],
+      "reminderCompletions": {
+        "due-payable-13::2026-10-23": true,
+        "due-payable-12::2026-10-24": true,
+        "due-payable-8::2026-10-20": true,
+        "due-payable-9::2026-10-20": true,
+        "due-payable-11::2026-10-20": true,
+        "due-payable-10::2026-10-01": true,
+        "due-payable-7::2026-10-28": true,
+        "due-payable-6::2026-10-28": true,
+        "due-payable-10::2026-11-01": true
+      }
+    },
+    "version": 11,
+    "updatedAt": "2026-10-23T10:55:47.133Z"
+  }
+}
