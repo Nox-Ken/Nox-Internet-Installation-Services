@@ -1,7 +1,7 @@
 {
   "format": "NOX-REPOSITORY-DATA",
   "formatVersion": 1,
-  "updatedAt": "2026-10-23T14:31:34.446Z",
+  "updatedAt": "2026-10-23T17:51:42.324Z",
   "workspace": {
     "seed": {
       "business": {
@@ -7185,12 +7185,72 @@
           "owner": 8100,
           "agent": 340,
           "source": "Workspace"
+        },
+        {
+          "id": "66b982670749a0e7109aeabc4cef2bfa",
+          "date": "2026-10-24",
+          "month": "2026-10",
+          "area": "sample",
+          "name": "sample",
+          "gross": 100000,
+          "internet": 0,
+          "electricity": 0,
+          "net": 100000,
+          "consignee": 20000,
+          "owner": 75000,
+          "agent": 5000,
+          "source": "Workspace"
+        },
+        {
+          "id": "def455c62bd661582dd522722b912151",
+          "date": "2026-10-24",
+          "month": "2026-10",
+          "area": "san mariano",
+          "name": "nox-ken",
+          "gross": 360000,
+          "internet": 0,
+          "electricity": 0,
+          "net": 360000,
+          "consignee": 72000,
+          "owner": 270000,
+          "agent": 18000,
+          "source": "Workspace"
+        },
+        {
+          "id": "deb76dc9e06dced1fd8b60e100fdb6de",
+          "date": "2026-10-24",
+          "month": "2026-10",
+          "area": "Magatos",
+          "name": "Kenneth Mirasol Albaran",
+          "gross": 100000,
+          "internet": 0,
+          "electricity": 0,
+          "net": 100000,
+          "consignee": 20000,
+          "owner": 75000,
+          "agent": 5000,
+          "source": "Workspace"
         }
       ],
       "expenses": [],
       "receipts": [],
       "assets": [],
-      "assetStatuses": {},
+      "assetStatuses": {
+        "asset-6": "Operational",
+        "asset-7": "Operational",
+        "asset-9": "Operational",
+        "asset-10": "Needs attention",
+        "asset-11": "Operational",
+        "asset-12": "Operational",
+        "asset-13": "Operational",
+        "asset-14": "Operational",
+        "asset-15": "Operational",
+        "asset-16": "Operational",
+        "asset-17": "Operational",
+        "asset-18": "Operational",
+        "asset-19": "Operational",
+        "asset-21": "Operational"
+      },
       "payrollStatuses": {},
       "employees": [],
       "attendance": [],
@@ -7204,6 +7264,32 @@
               "kind": "harvest",
               "id": "5302b256-9e47-4e43-911d-850a9b6a9662",
               "label": "Kenneth Mirasol Albaran · 2026-10"
+            }
+          ],
+          "clearBaseline": false
+        },
+        {
+          "id": "c13dd9a11a0e7612c54c54dd1f4a3a59",
+          "label": "sample · 2026-10",
+          "deletedAt": "2026-10-23T16:08:44.198Z",
+          "items": [
+            {
+              "kind": "harvest",
+              "id": "66b982670749a0e7109aeabc4cef2bfa",
+              "label": "sample · 2026-10"
+            }
+          ],
+          "clearBaseline": false
+        },
+        {
+          "id": "3dd1896cc43be5a2da986f51554f9e6e",
+          "label": "nox-ken · 2026-10",
+          "deletedAt": "2026-10-23T17:20:21.660Z",
+          "items": [
+            {
+              "kind": "harvest",
+              "id": "def455c62bd661582dd522722b912151",
+              "label": "nox-ken · 2026-10"
             }
           ],
           "clearBaseline": false
@@ -7222,7 +7308,7 @@
         "due-payable-10::2026-11-01": true
       }
     },
-    "version": 11,
-    "updatedAt": "2026-10-23T10:55:47.133Z"
+    "version": 21,
+    "updatedAt": "2026-10-23T17:50:40.568Z"
   }
 }
