@@ -1,7 +1,7 @@
 {
   "format": "NOX-REPOSITORY-DATA",
   "formatVersion": 1,
-  "updatedAt": "2026-10-23T17:51:42.324Z",
+  "updatedAt": "2026-10-23T23:51:21.992Z",
   "workspace": {
     "seed": {
       "business": {
@@ -33,38 +33,37 @@
         },
         {
           "month": "2026-06",
-          "vendo": 107399.9,
+          "vendo": 108187.45,
           "subscriber": 5450,
-          "expenses": 170631,
+          "expenses": 160401,
           "opening": 165474.45,
           "closing": 107693.35,
           "harvestCount": 69,
           "categories": {
             "Internet/ISP": 19224,
             "Components/Piyesa": 81748,
-            "Gas": 0,
             "Manpower": 42250,
-            "Car Loan / Mini-Van": 0,
-            "Tower Rental Payment": 4750,
-            "Misc / Other": 22659
+            "Misc": 16429,
+            "Tower Rental Payment": 0,
+            "Tower": 750
           }
         },
         {
           "month": "2026-07",
-          "vendo": 100328.1,
+          "vendo": 100042.32,
           "subscriber": 5550,
-          "expenses": 126220.5,
+          "expenses": 136450.5,
           "opening": 107693.35,
           "closing": 87350.95,
           "harvestCount": 79,
           "categories": {
             "Internet/ISP": 23201,
             "Components/Piyesa": 49685,
-            "Gas": 0,
             "Manpower": 32756.5,
-            "Car Loan / Mini-Van": 11078,
-            "Tower Rental Payment": 5200,
-            "Misc / Other": 4300
+            "Tower Rental Payment": 0,
+            "Misc": 4300,
+            "Car Loan": 11078,
+            "Tower": 15430
           }
         },
         {
@@ -82,7 +81,9 @@
             "Manpower": 30996,
             "Car Loan / Mini-Van": 11078,
             "Tower Rental Payment": 0,
-            "Misc / Other": 8432
+            "Misc / Other": 8432,
+            "Misc": -2000,
+            "Tower": 2000
           }
         },
         {
@@ -107,19 +108,11 @@
           "month": "2026-10",
           "vendo": 0,
           "subscriber": 850,
-          "expenses": 400,
+          "expenses": 0,
           "opening": -40076.55,
           "closing": -39626.55,
           "harvestCount": 0,
-          "categories": {
-            "Internet/ISP": 0,
-            "Components/Piyesa": 0,
-            "Gas": 0,
-            "Manpower": 400,
-            "Car Loan / Mini-Van": 0,
-            "Tower Rental Payment": 0,
-            "Misc / Other": 0
-          }
+          "categories": {}
         }
       ],
       "harvest": [
@@ -4153,39 +4146,43 @@
         },
         {
           "id": "expense-117",
-          "date": "2026-06-30",
-          "month": "2026-06",
-          "category": "Misc",
+          "date": "2026-07-02",
+          "month": "2026-07",
+          "category": "Tower",
           "amount": 6230,
           "description": "Bantuasan Tower and Kuryente- FULL PAYMENT (pullout)",
-          "source": "Imported"
+          "source": "Imported",
+          "assetId": "asset-8"
         },
         {
           "id": "expense-118",
-          "date": "2026-06-30",
-          "month": "2026-06",
-          "category": "Tower Rental Payment",
+          "date": "2026-07-02",
+          "month": "2026-07",
+          "category": "Tower",
           "amount": 2000,
           "description": "Absalon Tower- May and June",
-          "source": "Imported"
+          "source": "Imported",
+          "assetId": "asset-7"
         },
         {
           "id": "expense-119",
-          "date": "2026-06-30",
-          "month": "2026-06",
-          "category": "Tower Rental Payment",
+          "date": "2026-07-02",
+          "month": "2026-07",
+          "category": "Tower",
           "amount": 2000,
           "description": "Casal Main Tower- May and June",
-          "source": "Imported"
+          "source": "Imported",
+          "assetId": "asset-6"
         },
         {
           "id": "expense-120",
           "date": "2026-06-30",
           "month": "2026-06",
-          "category": "Tower Rental Payment",
+          "category": "Tower",
           "amount": 750,
           "description": "Casal Main tower- Refund kay dapat walay internet last month",
-          "source": "Imported"
+          "source": "Imported",
+          "assetId": "asset-6"
         },
         {
           "id": "expense-121",
@@ -4569,19 +4566,21 @@
           "id": "expense-163",
           "date": "2026-07-22",
           "month": "2026-07",
-          "category": "Tower Rental Payment",
+          "category": "Tower",
           "amount": 2000,
           "description": "Torres Tower Payment 2 months- May and June",
-          "source": "Imported"
+          "source": "Imported",
+          "assetId": "asset-21"
         },
         {
           "id": "expense-164",
           "date": "2026-07-22",
           "month": "2026-07",
-          "category": "Tower Rental Payment",
+          "category": "Tower",
           "amount": 3200,
           "description": "Jolipa Tower Payment 2 months- May, June, July",
-          "source": "Imported"
+          "source": "Imported",
+          "assetId": "asset-12"
         },
         {
           "id": "expense-165",
@@ -5010,10 +5009,11 @@
           "id": "expense-212",
           "date": "2026-08-27",
           "month": "2026-08",
-          "category": "Misc",
+          "category": "Tower",
           "amount": 2000,
-          "description": "Mondejar Tower ",
-          "source": "Imported"
+          "description": "Mondejar Tower",
+          "source": "Imported",
+          "assetId": "asset-14"
         },
         {
           "id": "expense-213",
@@ -6855,112 +6855,383 @@
           "name": "Vivian Casal",
           "area": "Manawe",
           "status": "Unspecified",
-          "lastRecorded": "2026-07-02"
+          "lastRecorded": "2026-07-02",
+          "towerRental": {
+            "landowner": "Vivian Casal",
+            "monthlyAmount": 0,
+            "dueDay": 1,
+            "startMonth": "2026-05",
+            "enabled": false,
+            "historyThrough": "2026-12",
+            "monthStatuses": {},
+            "paymentGroups": [
+              {
+                "id": "nox-accounts-and-rents-2026-10-24-casal-may-june",
+                "months": [
+                  "2026-05",
+                  "2026-06"
+                ],
+                "paidOn": "2026-07-02",
+                "expenseIds": [
+                  "expense-119"
+                ],
+                "note": "One payment covers May and June. The monthly breakdown was not specified."
+              }
+            ]
+          }
         },
         {
           "id": "asset-7",
           "name": "Rubelyn Absalon",
           "area": "Nueva Gracia",
           "status": "Unspecified",
-          "lastRecorded": "2026-07-02"
+          "lastRecorded": "2026-07-02",
+          "towerRental": {
+            "landowner": "Rubelyn Absalon",
+            "monthlyAmount": 0,
+            "dueDay": 1,
+            "startMonth": "2026-05",
+            "enabled": false,
+            "historyThrough": "2026-12",
+            "monthStatuses": {},
+            "paymentGroups": [
+              {
+                "id": "nox-accounts-and-rents-2026-10-24-absalon-may-june",
+                "months": [
+                  "2026-05",
+                  "2026-06"
+                ],
+                "paidOn": "2026-07-02",
+                "expenseIds": [
+                  "expense-118"
+                ],
+                "note": "One payment covers May and June. The monthly breakdown was not specified."
+              }
+            ]
+          }
         },
         {
           "id": "asset-8",
           "name": "Josifa Bantuasan",
           "area": "Sto. Tomas",
           "status": "Pulled out",
-          "lastRecorded": "2026-07-02"
+          "lastRecorded": "2026-07-02",
+          "towerRental": {
+            "landowner": "Josifa Bantuasan",
+            "monthlyAmount": 0,
+            "dueDay": 1,
+            "startMonth": "2026-05",
+            "enabled": false,
+            "historyThrough": "2026-12",
+            "endMonth": "2026-06",
+            "monthStatuses": {},
+            "paymentGroups": [
+              {
+                "id": "nox-accounts-and-rents-2026-10-24-bantuasan-may-june",
+                "months": [
+                  "2026-05",
+                  "2026-06"
+                ],
+                "paidOn": "2026-07-02",
+                "expenseIds": [
+                  "expense-117"
+                ],
+                "note": "The expense includes tower rent and electricity. A separate rent amount and monthly breakdown were not specified."
+              }
+            ]
+          }
         },
         {
           "id": "asset-9",
           "name": "Castro",
           "area": "Bataan",
           "status": "Unspecified",
-          "lastRecorded": null
+          "lastRecorded": null,
+          "towerRental": {
+            "landowner": "Castro",
+            "monthlyAmount": 0,
+            "dueDay": 1,
+            "startMonth": "2026-05",
+            "enabled": false,
+            "historyThrough": "2026-12",
+            "monthStatuses": {},
+            "paymentGroups": []
+          }
         },
         {
           "id": "asset-10",
           "name": "Maribel Calderon",
           "area": "Halapitan",
           "status": "Unspecified",
-          "lastRecorded": null
+          "lastRecorded": null,
+          "towerRental": {
+            "landowner": "Maribel Calderon",
+            "monthlyAmount": 0,
+            "dueDay": 1,
+            "startMonth": "2026-05",
+            "enabled": false,
+            "historyThrough": "2026-12",
+            "monthStatuses": {},
+            "paymentGroups": []
+          }
         },
         {
           "id": "asset-11",
           "name": "Rodolfo Duranggo",
           "area": "Magbuya",
           "status": "Unspecified",
-          "lastRecorded": null
+          "lastRecorded": null,
+          "towerRental": {
+            "landowner": "Rodolfo Duranggo",
+            "monthlyAmount": 0,
+            "dueDay": 1,
+            "startMonth": "2026-05",
+            "enabled": false,
+            "historyThrough": "2026-12",
+            "monthStatuses": {},
+            "paymentGroups": []
+          }
         },
         {
           "id": "asset-12",
           "name": "Juliet Julipa",
           "area": "Maitom",
           "status": "Unspecified",
-          "lastRecorded": "2026-07-22"
+          "lastRecorded": "2026-07-22",
+          "towerRental": {
+            "landowner": "Juliet Julipa",
+            "monthlyAmount": 0,
+            "dueDay": 1,
+            "startMonth": "2026-05",
+            "enabled": false,
+            "historyThrough": "2026-12",
+            "monthStatuses": {},
+            "paymentGroups": [
+              {
+                "id": "nox-accounts-and-rents-2026-10-24-julipa-may-july",
+                "months": [
+                  "2026-05",
+                  "2026-06",
+                  "2026-07"
+                ],
+                "paidOn": "2026-07-22",
+                "expenseIds": [
+                  "expense-164"
+                ],
+                "note": "The date table covers May, June and July. The expense total is 3,200; its description also says 2 months. The monthly breakdown was not specified."
+              }
+            ]
+          }
         },
         {
           "id": "asset-13",
           "name": "Joseph Tomas",
           "area": "Osmena",
           "status": "Unspecified",
-          "lastRecorded": null
+          "lastRecorded": null,
+          "towerRental": {
+            "landowner": "Joseph Tomas",
+            "monthlyAmount": 0,
+            "dueDay": 1,
+            "startMonth": "2026-05",
+            "enabled": false,
+            "historyThrough": "2026-12",
+            "monthStatuses": {},
+            "paymentGroups": []
+          }
         },
         {
           "id": "asset-14",
           "name": "Havana/ Mondejar",
           "area": "San Patricio, La Paz",
           "status": "Unspecified",
-          "lastRecorded": null
+          "lastRecorded": null,
+          "towerRental": {
+            "landowner": "Havana/ Mondejar",
+            "monthlyAmount": 0,
+            "dueDay": 1,
+            "startMonth": "2026-05",
+            "enabled": false,
+            "historyThrough": "2026-12",
+            "monthStatuses": {},
+            "paymentGroups": [
+              {
+                "id": "nox-accounts-and-rents-2026-10-24-mondejar-unallocated",
+                "months": [],
+                "expenseIds": [
+                  "expense-212"
+                ],
+                "note": "Expense paid August 27, 2026. Rental month not specified in the expense or payment table."
+              }
+            ]
+          }
         },
         {
           "id": "asset-15",
           "name": "Anselmo Bada",
           "area": "Pinamuyanan",
           "status": "Unspecified",
-          "lastRecorded": null
+          "lastRecorded": null,
+          "towerRental": {
+            "landowner": "Anselmo Bada",
+            "monthlyAmount": 0,
+            "dueDay": 1,
+            "startMonth": "2026-05",
+            "enabled": false,
+            "historyThrough": "2026-12",
+            "monthStatuses": {},
+            "paymentGroups": []
+          }
         },
         {
           "id": "asset-16",
           "name": "Carmona",
           "area": "Waloe",
           "status": "Unspecified",
-          "lastRecorded": "2026-01-01"
+          "lastRecorded": "2026-01-01",
+          "towerRental": {
+            "landowner": "Carmona",
+            "monthlyAmount": 0,
+            "dueDay": 1,
+            "startMonth": "2026-05",
+            "enabled": false,
+            "historyThrough": "2026-12",
+            "monthStatuses": {},
+            "paymentGroups": [
+              {
+                "id": "nox-accounts-and-rents-2026-10-24-carmona-may-june",
+                "months": [
+                  "2026-05",
+                  "2026-06"
+                ],
+                "paidOnLabel": "January 1 · year not specified",
+                "expenseIds": [],
+                "note": "January 1 appears for both May and June 2026. The year and cash amount were not supplied; no cash expense has been added."
+              }
+            ]
+          }
         },
         {
           "id": "asset-17",
           "name": "Luciano Facundo",
           "area": "Magaud",
           "status": "Unspecified",
-          "lastRecorded": null
+          "lastRecorded": null,
+          "towerRental": {
+            "landowner": "Luciano Facundo",
+            "monthlyAmount": 0,
+            "dueDay": 1,
+            "startMonth": "2026-05",
+            "enabled": false,
+            "historyThrough": "2026-12",
+            "monthStatuses": {},
+            "paymentGroups": []
+          }
         },
         {
           "id": "asset-18",
           "name": "Nancy Delgado",
           "area": "Bunawan",
           "status": "Unspecified",
-          "lastRecorded": "2026-08-04"
+          "lastRecorded": "2026-08-04",
+          "towerRental": {
+            "landowner": "Nancy Delgado",
+            "monthlyAmount": 0,
+            "dueDay": 1,
+            "startMonth": "2026-05",
+            "enabled": false,
+            "historyThrough": "2026-12",
+            "monthStatuses": {},
+            "paymentGroups": [
+              {
+                "id": "nox-accounts-and-rents-2026-10-24-nancy-may-june",
+                "months": [
+                  "2026-05",
+                  "2026-06"
+                ],
+                "paidOn": "2026-06-11",
+                "expenseIds": [],
+                "note": "Payment date supplied for May and June. No matching expense amount was found; no cash expense has been added."
+              },
+              {
+                "id": "nox-accounts-and-rents-2026-10-24-nancy-july",
+                "months": [
+                  "2026-07"
+                ],
+                "paidOn": "2026-08-04",
+                "expenseIds": [],
+                "note": "Payment date supplied for July. No matching expense amount was found; no cash expense has been added."
+              }
+            ]
+          }
         },
         {
           "id": "asset-19",
           "name": "Garcia",
           "area": "Johnson",
           "status": "Unspecified",
-          "lastRecorded": null
+          "lastRecorded": null,
+          "towerRental": {
+            "landowner": "Garcia",
+            "monthlyAmount": 0,
+            "dueDay": 1,
+            "startMonth": "2026-05",
+            "enabled": false,
+            "historyThrough": "2026-12",
+            "monthStatuses": {},
+            "paymentGroups": []
+          }
         },
         {
           "id": "asset-20",
           "name": "Manginsay",
           "area": "Kauswagan",
           "status": "Needs attention",
-          "lastRecorded": null
+          "lastRecorded": null,
+          "towerRental": {
+            "landowner": "Manginsay",
+            "monthlyAmount": 0,
+            "dueDay": 1,
+            "startMonth": "2026-05",
+            "enabled": false,
+            "historyThrough": "2026-12",
+            "monthStatuses": {
+              "2026-05": "Non-functional",
+              "2026-06": "Non-functional",
+              "2026-07": "Non-functional"
+            },
+            "paymentGroups": []
+          }
         },
         {
           "id": "asset-21",
           "name": "Torres",
           "area": "Valentina",
           "status": "Unspecified",
-          "lastRecorded": "2026-07-22"
+          "lastRecorded": "2026-07-22",
+          "towerRental": {
+            "landowner": "Torres",
+            "monthlyAmount": 0,
+            "dueDay": 1,
+            "startMonth": "2026-05",
+            "enabled": false,
+            "historyThrough": "2026-12",
+            "monthStatuses": {},
+            "paymentGroups": [
+              {
+                "id": "nox-accounts-and-rents-2026-10-24-torres-may-june",
+                "months": [
+                  "2026-05",
+                  "2026-06"
+                ],
+                "paidOn": "2026-07-22",
+                "expenseIds": [
+                  "expense-163"
+                ],
+                "note": "One payment covers May and June. The monthly breakdown was not specified."
+              }
+            ]
+          }
         }
       ],
       "subscribers": [
@@ -6974,7 +7245,10 @@
             "2026-07": 850,
             "2026-08": 850,
             "2026-10": 0
-          }
+          },
+          "monthlyAmount": 850,
+          "billingStart": "2026-10",
+          "dueDay": 22
         },
         {
           "id": "subscriber-4",
@@ -6986,19 +7260,25 @@
             "2026-07": 850,
             "2026-08": 850,
             "2026-10": 0
-          }
+          },
+          "monthlyAmount": 850,
+          "billingStart": "2026-10",
+          "dueDay": 5
         },
         {
           "id": "subscriber-5",
           "name": "Evelyn Dabon",
           "area": "San Mariano",
-          "due": "Not specified",
+          "due": "Every 1",
           "payments": {
             "2026-06": 850,
             "2026-07": 850,
             "2026-08": 0,
             "2026-10": 0
-          }
+          },
+          "monthlyAmount": 850,
+          "billingStart": "2026-10",
+          "dueDay": 1
         },
         {
           "id": "subscriber-6",
@@ -7010,55 +7290,70 @@
             "2026-07": 1000,
             "2026-08": 0,
             "2026-10": 0
-          }
+          },
+          "monthlyAmount": 850,
+          "billingStart": "2026-10",
+          "dueDay": 27
         },
         {
           "id": "subscriber-7",
-          "name": "Roxax",
+          "name": "Roxas",
           "area": "Not specified",
-          "due": "Not specified",
+          "due": "Every 1",
           "payments": {
             "2026-06": 0,
             "2026-07": 0,
             "2026-08": 850,
             "2026-10": 850
-          }
+          },
+          "monthlyAmount": 850,
+          "billingStart": "2026-10",
+          "dueDay": 1
         },
         {
           "id": "subscriber-8",
           "name": "Paller",
           "area": "Not specified",
-          "due": "Not specified",
+          "due": "Every 1",
           "payments": {
             "2026-06": 0,
             "2026-07": 0,
             "2026-08": 0,
             "2026-10": 0
-          }
+          },
+          "monthlyAmount": 850,
+          "billingStart": "2026-10",
+          "dueDay": 1
         },
         {
           "id": "subscriber-9",
           "name": "Gemina",
           "area": "Not specified",
-          "due": "Not specified",
+          "due": "Every 1",
           "payments": {
             "2026-06": 0,
             "2026-07": 2000,
             "2026-08": 0,
             "2026-10": 0
-          }
+          },
+          "monthlyAmount": 850,
+          "billingStart": "2026-10",
+          "dueDay": 1
         },
         {
           "id": "subscriber-10",
           "name": "Elboy Torres",
           "area": "Not specified",
-          "due": "2026-09-16",
+          "due": "Every 1",
           "payments": {
             "2026-06": 2900,
             "2026-07": 0,
             "2026-08": 2900,
             "2026-10": 0
-          }
+          },
+          "monthlyAmount": 850,
+          "billingStart": "2026-10",
+          "dueDay": 1
         }
       ],
       "payables": [
@@ -7101,7 +7396,7 @@
           "id": "payable-11",
           "provider": "PLDT",
           "area": "Main- Bunawan",
-          "amount": 11000,
+          "amount": 2699,
           "due": "Every 20"
         },
         {
@@ -7170,6 +7465,9 @@
       ]
     },
     "changes": {
+      "businessUpdates": [
+        "nox-accounts-and-rents-2026-10-24"
+      ],
       "harvest": [
         {
           "id": "5302b256-9e47-4e43-911d-850a9b6a9662",
@@ -7233,7 +7531,24 @@
         }
       ],
       "expenses": [],
-      "receipts": [],
+      "receipts": [
+        {
+          "id": "6c93125457420ca9e0e70a4a268d7844",
+          "date": "2026-10-24",
+          "month": "2026-10",
+          "subscriberId": "subscriber-3",
+          "amount": 850,
+          "name": "Joseph Pabellan"
+        },
+        {
+          "id": "d6e72a1150313c6ef5ac4b2930bfae0b",
+          "date": "2026-10-24",
+          "month": "2026-10",
+          "subscriberId": "subscriber-3",
+          "amount": 850,
+          "name": "Joseph Pabellan"
+        }
+      ],
       "assets": [],
       "assetStatuses": {
         "asset-6": "Operational",
@@ -7249,11 +7564,55 @@
         "asset-17": "Operational",
         "asset-18": "Operational",
         "asset-19": "Operational",
-        "asset-21": "Operational"
+        "asset-21": "Operational",
+        "asset-8": "Pulled out"
       },
       "payrollStatuses": {},
       "employees": [],
-      "attendance": [],
+      "attendance": [
+        {
+          "employeeId": "employee-gemson",
+          "month": "2026-10",
+          "dailyRate": 500,
+          "cashAdvance": 0,
+          "days": [
+            {
+              "date": "2026-10-01",
+              "units": 1
+            },
+            {
+              "date": "2026-10-10",
+              "units": 1
+            },
+            {
+              "date": "2026-10-11",
+              "units": 1
+            },
+            {
+              "date": "2026-10-12",
+              "units": 1
+            },
+            {
+              "date": "2026-10-13",
+              "units": 1
+            },
+            {
+              "date": "2026-10-14",
+              "units": 1
+            },
+            {
+              "date": "2026-10-15",
+              "units": 1
+            },
+            {
+              "date": "2026-10-16",
+              "units": 1
+            }
+          ],
+          "source": "Workspace",
+          "updatedAt": "2026-10-23T19:51:26.836Z"
+        }
+      ],
       "trash": [
         {
           "id": "0c9d39d2-ad98-4b5c-84e1-ed2d90d3ee7d",
@@ -7293,6 +7652,58 @@
             }
           ],
           "clearBaseline": false
+        },
+        {
+          "id": "2c828efd62cd99ff1785481ec34cffa1",
+          "label": "Kenneth Mirasol Albaran · 2026-10",
+          "deletedAt": "2026-10-23T19:03:54.561Z",
+          "items": [
+            {
+              "kind": "harvest",
+              "id": "deb76dc9e06dced1fd8b60e100fdb6de",
+              "label": "Kenneth Mirasol Albaran · 2026-10"
+            }
+          ],
+          "clearBaseline": false
+        },
+        {
+          "id": "3d5afc69c1af4803b9256fe35be3460d",
+          "label": "Joseph Pabellan · 2026-10-24",
+          "deletedAt": "2026-10-23T19:41:08.429Z",
+          "items": [
+            {
+              "kind": "receipt",
+              "id": "6c93125457420ca9e0e70a4a268d7844",
+              "label": "Joseph Pabellan · 2026-10-24"
+            }
+          ],
+          "clearBaseline": false
+        },
+        {
+          "id": "e47c01306175488f10956f707586dd5a",
+          "label": "Joseph Pabellan · 2026-10-24",
+          "deletedAt": "2026-10-23T19:41:10.334Z",
+          "items": [
+            {
+              "kind": "receipt",
+              "id": "d6e72a1150313c6ef5ac4b2930bfae0b",
+              "label": "Joseph Pabellan · 2026-10-24"
+            }
+          ],
+          "clearBaseline": false
+        },
+        {
+          "id": "da6266188c72ca26e363d355416e6078",
+          "label": "Elboy Torres · 2026-08 · recorded payment",
+          "deletedAt": "2026-10-23T19:45:36.550Z",
+          "items": [
+            {
+              "kind": "subscriberPayment",
+              "id": "imported-subscriber-10-2026-08",
+              "label": "Elboy Torres · 2026-08 · recorded payment"
+            }
+          ],
+          "clearBaseline": false
         }
       ],
       "reminders": [],
@@ -7306,9 +7717,64 @@
         "due-payable-7::2026-10-28": true,
         "due-payable-6::2026-10-28": true,
         "due-payable-10::2026-11-01": true
-      }
+      },
+      "vendoGroups": [
+        {
+          "id": "vendo-group-3e30078a2cdf591e85b793dd7a9685fa",
+          "finalName": "ABSALON",
+          "members": [
+            {
+              "name": "Absalon",
+              "area": "Nueva"
+            },
+            {
+              "name": "ABSALON PISO WIFI",
+              "area": "NUEVA GRACIA"
+            }
+          ],
+          "createdAt": "2026-10-23T20:44:02.970Z"
+        },
+        {
+          "id": "vendo-group-33642dc5892511f6b505156d7c7994b3",
+          "finalName": "AGOK",
+          "members": [
+            {
+              "name": "Agu",
+              "area": "Unassigned"
+            },
+            {
+              "name": "AGOC PISO WIFI",
+              "area": "UNMAPPED"
+            },
+            {
+              "name": "AGOK",
+              "area": "Unassigned"
+            }
+          ],
+          "createdAt": "2026-10-23T20:44:51.694Z"
+        },
+        {
+          "id": "vendo-group-f00e74db88ef50a2f3281d66d9ff79fc",
+          "finalName": "AGUINALDO",
+          "members": [
+            {
+              "name": "Aguinaldo",
+              "area": "Bataan"
+            },
+            {
+              "name": "Aguinaldo",
+              "area": "Unassigned"
+            },
+            {
+              "name": "AGUINALDO PISO WIFI",
+              "area": "UNMAPPED"
+            }
+          ],
+          "createdAt": "2026-10-23T20:47:26.671Z"
+        }
+      ]
     },
-    "version": 21,
-    "updatedAt": "2026-10-23T17:50:40.568Z"
+    "version": 50,
+    "updatedAt": "2026-10-23T21:16:22.900Z"
   }
 }
