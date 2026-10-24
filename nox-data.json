@@ -1,7 +1,7 @@
 {
   "format": "NOX-REPOSITORY-DATA",
   "formatVersion": 1,
-  "updatedAt": "2026-10-23T23:51:21.992Z",
+  "updatedAt": "2026-10-24T08:44:21.466Z",
   "workspace": {
     "seed": {
       "business": {
@@ -7361,35 +7361,35 @@
           "id": "payable-6",
           "provider": "STARLINK",
           "area": "Sta. Theresa",
-          "amount": 3800,
+          "amount": 4099,
           "due": "Every 28"
         },
         {
           "id": "payable-7",
           "provider": "STARLINK",
           "area": "Kauswagan",
-          "amount": 3800,
+          "amount": 4099,
           "due": "Every 28"
         },
         {
           "id": "payable-8",
           "provider": "STARLINK",
           "area": "Langasian",
-          "amount": 3800,
+          "amount": 4099,
           "due": "Every 20"
         },
         {
           "id": "payable-9",
           "provider": "STARLINK",
           "area": "San Mariano",
-          "amount": 3800,
+          "amount": 4099,
           "due": "Every 20"
         },
         {
           "id": "payable-10",
           "provider": "STARLINK",
           "area": "Kiawan",
-          "amount": 3800,
+          "amount": 4099,
           "due": "Every 1"
         },
         {
@@ -7774,7 +7774,7 @@
         }
       ]
     },
-    "version": 50,
-    "updatedAt": "2026-10-23T21:16:22.900Z"
+    "version": 55,
+    "updatedAt": "2026-10-24T00:04:07.081Z"
   }
 }
