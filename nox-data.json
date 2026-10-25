@@ -1,7 +1,7 @@
 {
   "format": "NOX-REPOSITORY-DATA",
   "formatVersion": 1,
-  "updatedAt": "2026-10-24T08:44:21.466Z",
+  "updatedAt": "2026-10-25T18:11:21.186Z",
   "workspace": {
     "seed": {
       "business": {
@@ -7465,6 +7465,80 @@
       ]
     },
     "changes": {
+      "providerProfiles": {
+        "payable-6": {
+          "accountName": "Roslyn Irisari",
+          "contactName": "",
+          "email": "royabrea012978@gmail.com",
+          "recoveryEmail": "",
+          "username": "",
+          "phone": "",
+          "accountNumber": "admin1234567"
+        },
+        "payable-7": {
+          "accountName": "Roslyn Irisari",
+          "contactName": "",
+          "email": "royabrea012978@gmail.com",
+          "recoveryEmail": "",
+          "username": "",
+          "phone": "",
+          "accountNumber": "admin1234567"
+        },
+        "payable-8": {
+          "accountName": "Roslyn Irisari",
+          "contactName": "",
+          "email": "irisariroslyn041892@gmail.com",
+          "recoveryEmail": "",
+          "username": "",
+          "phone": "",
+          "accountNumber": "admin1234567"
+        },
+        "payable-9": {
+          "accountName": "Roslyn Irisari",
+          "contactName": "",
+          "email": "irisariroslyn041892@gmail.com",
+          "recoveryEmail": "",
+          "username": "",
+          "phone": "",
+          "accountNumber": "admin1234567"
+        },
+        "payable-10": {
+          "accountName": "Roslyn Irisari",
+          "contactName": "",
+          "email": "royirisari1978@gmail.com",
+          "recoveryEmail": "",
+          "username": "",
+          "phone": "",
+          "accountNumber": "admin1234567"
+        },
+        "payable-11": {
+          "accountName": "Analita Albaran",
+          "contactName": "",
+          "email": "kurtjayalbaran@gmail.com",
+          "recoveryEmail": "",
+          "username": "",
+          "phone": "0858300193",
+          "accountNumber": "0404568671"
+        },
+        "payable-12": {
+          "accountName": "Kurt Jay Albaran",
+          "contactName": "",
+          "email": "kennethalbaran15@gmail.com",
+          "recoveryEmail": "",
+          "username": "",
+          "phone": "0842174371",
+          "accountNumber": "0400729662"
+        },
+        "payable-13": {
+          "accountName": "Kurt Jay Albaran",
+          "contactName": "",
+          "email": "",
+          "recoveryEmail": "",
+          "username": "",
+          "phone": "",
+          "accountNumber": "26032300005432"
+        }
+      },
       "businessUpdates": [
         "nox-accounts-and-rents-2026-10-24"
       ],
@@ -7530,7 +7604,116 @@
           "source": "Workspace"
         }
       ],
-      "expenses": [],
+      "expenses": [
+        {
+          "id": "6904df3e8f349412f7cd99e02e365244",
+          "date": "2026-09-28",
+          "month": "2026-09",
+          "category": "Manpower",
+          "amount": 500,
+          "description": "Cash advance · KURT JAY · 2026-10",
+          "source": "Workspace",
+          "employeeId": "employee-kurt-jay",
+          "serviceMonth": "2026-10",
+          "manpowerType": "Cash advance"
+        },
+        {
+          "id": "e16ee7789258711f5947fddbebab4191",
+          "date": "2026-10-02",
+          "month": "2026-10",
+          "category": "Manpower",
+          "amount": 1000,
+          "description": "Cash advance · KURT JAY · 2026-10 · CA kang mama",
+          "source": "Workspace",
+          "employeeId": "employee-kurt-jay",
+          "serviceMonth": "2026-10",
+          "manpowerType": "Cash advance"
+        },
+        {
+          "id": "3545663b292e69ccb321f1c3997afb70",
+          "date": "2026-10-01",
+          "month": "2026-10",
+          "category": "Manpower",
+          "amount": 1000,
+          "description": "Cash advance · KURT JAY · 2026-10",
+          "source": "Workspace",
+          "employeeId": "employee-kurt-jay",
+          "serviceMonth": "2026-10",
+          "manpowerType": "Cash advance"
+        },
+        {
+          "id": "24b6c2e2ff1d5edd7b41144edd800940",
+          "date": "2026-10-09",
+          "month": "2026-10",
+          "category": "Manpower",
+          "amount": 1000,
+          "description": "Cash advance · KURT JAY · 2026-10 · apang allowance",
+          "source": "Workspace",
+          "employeeId": "employee-kurt-jay",
+          "serviceMonth": "2026-10",
+          "manpowerType": "Cash advance"
+        },
+        {
+          "id": "635f3fe4e9d14b536feae97fa60eae14",
+          "date": "2026-10-21",
+          "month": "2026-10",
+          "category": "Manpower",
+          "amount": 2000,
+          "description": "Cash advance · KURT JAY · 2026-10 · CA dagat",
+          "source": "Workspace",
+          "employeeId": "employee-kurt-jay",
+          "serviceMonth": "2026-10",
+          "manpowerType": "Cash advance"
+        },
+        {
+          "id": "e27c9d4c308a5629f866da9599c83601",
+          "date": "2026-10-21",
+          "month": "2026-10",
+          "category": "Manpower",
+          "amount": 1500,
+          "description": "Cash advance · GEMSON · 2026-10 · 3rd harvest ni",
+          "source": "Workspace",
+          "employeeId": "employee-gemson",
+          "serviceMonth": "2026-10",
+          "manpowerType": "Cash advance"
+        },
+        {
+          "id": "d795ee489cf18e9890b470fdb7e216c9",
+          "date": "2026-10-21",
+          "month": "2026-10",
+          "category": "Gas",
+          "amount": 2620,
+          "description": "CC kang kuya tambok",
+          "source": "Workspace"
+        },
+        {
+          "id": "f56233ddf116133eaf11dc5ee4eedac1",
+          "date": "2026-10-21",
+          "month": "2026-10",
+          "category": "Components/Piyesa",
+          "amount": 1520,
+          "description": "Mechanical Fiber Connector",
+          "source": "Workspace"
+        },
+        {
+          "id": "173a8c5e6128a3679e0ba0c394576198",
+          "date": "2026-10-22",
+          "month": "2026-10",
+          "category": "Gas",
+          "amount": 1000,
+          "description": "Padulong bunawan",
+          "source": "Workspace"
+        },
+        {
+          "id": "cf0fba51bedd61c1e189b31b95904bb2",
+          "date": "2026-10-22",
+          "month": "2026-10",
+          "category": "Components/Piyesa",
+          "amount": 1000,
+          "description": "Power supply and SD Card-Casal",
+          "source": "Workspace"
+        }
+      ],
       "receipts": [
         {
           "id": "6c93125457420ca9e0e70a4a268d7844",
@@ -7774,7 +7957,7 @@
         }
       ]
     },
-    "version": 55,
-    "updatedAt": "2026-10-24T00:04:07.081Z"
+    "version": 66,
+    "updatedAt": "2026-10-25T18:08:55.134Z"
   }
 }
