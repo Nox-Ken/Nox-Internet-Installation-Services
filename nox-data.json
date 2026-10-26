@@ -1,7 +1,7 @@
 {
   "format": "NOX-REPOSITORY-DATA",
   "formatVersion": 1,
-  "updatedAt": "2026-10-25T18:11:21.186Z",
+  "updatedAt": "2026-10-26T13:09:37.179Z",
   "workspace": {
     "seed": {
       "business": {
@@ -7751,7 +7751,14 @@
         "asset-8": "Pulled out"
       },
       "payrollStatuses": {},
-      "employees": [],
+      "employees": [
+        {
+          "id": "employee-gemson",
+          "name": "GEMSON",
+          "employment": "Current",
+          "defaultRate": 500
+        }
+      ],
       "attendance": [
         {
           "employeeId": "employee-gemson",
@@ -7790,10 +7797,92 @@
             {
               "date": "2026-10-16",
               "units": 1
+            },
+            {
+              "date": "2026-10-22",
+              "units": 1
+            },
+            {
+              "date": "2026-10-23",
+              "units": 1
+            },
+            {
+              "date": "2026-10-24",
+              "units": 1
+            },
+            {
+              "date": "2026-10-25",
+              "units": 1
+            },
+            {
+              "date": "2026-10-26",
+              "units": 1
             }
           ],
           "source": "Workspace",
-          "updatedAt": "2026-10-23T19:51:26.836Z"
+          "updatedAt": "2026-10-25T18:31:44.892Z"
+        },
+        {
+          "employeeId": "employee-kurt-jay",
+          "month": "2026-10",
+          "dailyRate": 800,
+          "cashAdvance": 400,
+          "days": [
+            {
+              "date": "2026-10-01",
+              "units": 1
+            },
+            {
+              "date": "2026-10-10",
+              "units": 1
+            },
+            {
+              "date": "2026-10-11",
+              "units": 1
+            },
+            {
+              "date": "2026-10-12",
+              "units": 1
+            },
+            {
+              "date": "2026-10-13",
+              "units": 1
+            },
+            {
+              "date": "2026-10-14",
+              "units": 1
+            },
+            {
+              "date": "2026-10-15",
+              "units": 1
+            },
+            {
+              "date": "2026-10-16",
+              "units": 1
+            },
+            {
+              "date": "2026-10-22",
+              "units": 1
+            },
+            {
+              "date": "2026-10-23",
+              "units": 1
+            },
+            {
+              "date": "2026-10-24",
+              "units": 1
+            },
+            {
+              "date": "2026-10-25",
+              "units": 1
+            },
+            {
+              "date": "2026-10-26",
+              "units": 1
+            }
+          ],
+          "source": "Workspace",
+          "updatedAt": "2026-10-25T18:31:11.903Z"
         }
       ],
       "trash": [
@@ -7957,7 +8046,7 @@
         }
       ]
     },
-    "version": 66,
-    "updatedAt": "2026-10-25T18:08:55.134Z"
+    "version": 69,
+    "updatedAt": "2026-10-25T18:31:44.892Z"
   }
 }
